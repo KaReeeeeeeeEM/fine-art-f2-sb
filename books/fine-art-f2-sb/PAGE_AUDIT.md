@@ -36,6 +36,20 @@ Reference viewport: 558 x 768 px. Physical page numbers, printed folios, ADT pag
 - 0 U+FFFD replacement characters or backspace controls.
 - 0 duplicate `data-adt-reading-order` values within pages.
 - 3,322 speech items and synchronized word-highlighting metadata packaged.
+
+## 2026-09-06 hidden-content correction
+
+- Printed pages 1 and 6 map to physical PDF pages 7 and 12.
+- Removed erroneous lower-edge clipping from complete composite content panels;
+  this restored the introduction on printed page 1 and the Exercise 1.3 question
+  on printed page 6.
+- Corrected raster-visibility bounds for clipped running headers so opening
+  headings and first body lines remain visible as semantic text below the header.
+- Regenerated the complete 112-page package and scanned physical pages 7-112 in
+  the browser for broken images, replacement characters, and hidden semantic
+  text lacking a visible raster counterpart.
+- Visually reviewed all conservative scan candidates; pages 22, 24, 50, 59, and
+  88 contain valid visible raster renditions rather than missing content.
 - Pages 81 and 103 were rechecked after packaging completed; their images load
   correctly (the initial failures occurred while files were still being copied).
 - Small out-of-frame fragments are intentional source crop/registration marks,

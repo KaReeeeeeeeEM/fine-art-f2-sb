@@ -26,3 +26,8 @@
   speech items.
 - Verified the requested-page set in the packaged browser runtime, including the
   source top/bottom page furniture and the corrected revision/table pages.
+- Restored content hidden by contradictory composite-crop clipping, including
+  the complete introduction on printed page 1 and Exercise 1.3 on printed page 6.
+- Aligned semantic duplicate suppression with the actually visible header crop,
+  regenerated all 112 pages, and completed a browser scan from physical page 7
+  through page 112 for the same failure pattern.
