@@ -1,0 +1,15 @@
+# Book-local ADT Studio overrides selected during source preflight.
+# The source is a print-designed InDesign textbook whose identity and meaning
+# depend on fixed coordinates, repeated furniture, tables, and figure placement.
+default_render_strategy: fixed_layout
+
+image_filters:
+  min_side: 0
+  min_stddev: 0
+  meaningfulness: false
+  cropping: false
+
+# The source already contains exercises, activities, and revision questions.
+# Keep the package sequence aligned one-to-one with the 112 physical pages.
+quiz_generation:
+  enabled: false

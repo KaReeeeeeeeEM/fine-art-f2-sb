@@ -1,0 +1,9 @@
+# Rebuildable and source-only ADT Studio working files
+books/*/.cache/
+books/*/.debug-images/
+books/*/audio/
+books/*/images/
+books/*/videos/
+books/*/*.db
+books/*/*.pdf
+
