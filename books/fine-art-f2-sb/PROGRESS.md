@@ -18,3 +18,11 @@
 - Verified representative playback/highlight behavior without text reflow or
   geometry movement.
 - Final package: `adt/index.html`.
+- Reworked fixed-layout extraction/rendering rules for the reported front matter
+  and printed pages 2, 5, 7, 9, 10, 12, 18, 29, 34, 59, and 62, then applied the
+  same systemic fixes across the complete book.
+- Regenerated the complete pipeline successfully: 112/112 pages extracted and
+  structured, 112/112 captions and accessibility assessments, and 3,322/3,322
+  speech items.
+- Verified the requested-page set in the packaged browser runtime, including the
+  source top/bottom page furniture and the corrected revision/table pages.

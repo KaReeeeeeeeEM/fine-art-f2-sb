@@ -113,15 +113,22 @@
       if (phrase.length < 1) continue
       var tr = text[i].getBoundingClientRect()
       for (var j = 0; j < images.length; j++) {
+        if (images[j].dataset.adtRasterPartial === "1") continue
         var description = normalizeText(images[j].getAttribute("alt"))
         var ir = images[j].getBoundingClientRect()
         var overlaps = tr.left < ir.right && tr.right > ir.left && tr.top < ir.bottom && tr.bottom > ir.top
-        var centerInside = (tr.left + tr.right) / 2 >= ir.left && (tr.left + tr.right) / 2 <= ir.right &&
-          (tr.top + tr.bottom) / 2 >= ir.top && (tr.top + tr.bottom) / 2 <= ir.bottom
-        var decorativeRaster = (images[j].getAttribute("role") === "presentation" || images[j].getAttribute("aria-hidden") === "true") && ir.width / Math.max(ir.height, 1) >= 3
+        var intersectionWidth = Math.max(0, Math.min(tr.right, ir.right) - Math.max(tr.left, ir.left))
+        var intersectionHeight = Math.max(0, Math.min(tr.bottom, ir.bottom) - Math.max(tr.top, ir.top))
+        var textArea = Math.max(1, tr.width * tr.height)
+        var fullyContained = intersectionWidth * intersectionHeight / textArea >= 0.96
         var rasterizedText = images[j].dataset.adtRasterText === "1"
         var evidencedByCaption = phrase.length >= 4 && description.includes(phrase)
-        if (!overlaps || !centerInside || (!rasterizedText && !decorativeRaster && !evidencedByCaption)) continue
+        // A partial page crop can overlap the centre of a longer semantic
+        // line while omitting its beginning or end. Hiding that paragraph
+        // makes the omitted fragment disappear. Raster crops suppress text
+        // only when they contain the whole text box; a matching caption is
+        // still independent evidence that a complete duplicate is painted.
+        if (!overlaps || (!(rasterizedText && fullyContained) && !evidencedByCaption)) continue
         text[i].style.opacity = "0"
         text[i].dataset.adtRasterDuplicate = "1"
         break
