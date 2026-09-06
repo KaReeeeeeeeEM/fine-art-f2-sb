@@ -6,4 +6,4 @@ books/*/images/
 books/*/videos/
 books/*/*.db
 books/*/*.pdf
-
+books/.fonts-cache/
