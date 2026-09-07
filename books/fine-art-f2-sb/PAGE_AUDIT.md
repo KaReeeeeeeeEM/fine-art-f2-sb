@@ -81,3 +81,17 @@ Reference viewport: 558 x 768 px. Physical page numbers, printed folios, ADT pag
   textbook and form, 2023 syllabus, date, signatory, and office.
 - Transcribed the generated 26-second certificate audio to confirm the complete
   description is spoken. Decorative page furniture remains silent.
+
+## 2026-09-07 anti-facsimile HTML audit
+
+- Inspected all 112 packaged HTML files for canvases, embedded PDF viewers,
+  CSS page backgrounds, page-sized rasters, hidden text, and large text-bearing
+  image crops.
+- Physical pages 39, 41, and 109 contained large raster composites painting
+  ordinary textbook text. Removed those assets from the current versioned web
+  render and reconstructed the pink panels, chapter blocks, and table rules in
+  CSS while making the source text visible, selectable HTML.
+- Browser verification at the 558 × 768 reference page size found 21, 19, and
+  37 visible reading-order text nodes respectively, no large text raster, and
+  no horizontal or vertical overflow. Page 68 independently retained 41 visible
+  semantic text nodes and no large text raster.

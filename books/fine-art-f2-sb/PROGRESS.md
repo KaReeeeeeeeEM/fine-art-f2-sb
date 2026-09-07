@@ -46,3 +46,6 @@
   139 corresponding audio files, with no missing image narration.
 - Restored the cover Certificate of Approval narration in its visual reading
   position after the title hierarchy and before the publisher line.
+- Completed an anti-facsimile audit across all 112 packaged pages. Removed the
+  three large text-bearing page crops on physical pages 39, 41, and 109 and
+  replaced their visible content with selectable HTML plus CSS-built panels.
