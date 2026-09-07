@@ -287,7 +287,7 @@ Controls which features the reader UI enables. This book's config:
 ```json
 {
   "title": "Fine Art for Secondary Schools",
-  "bundleVersion": "d1be77f7f904c8cc",
+  "bundleVersion": "322daea5e963e0c6",
   "languages": {
     "available": [
       "en"

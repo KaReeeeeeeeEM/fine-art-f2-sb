@@ -49,3 +49,6 @@
 - Completed an anti-facsimile audit across all 112 packaged pages. Removed the
   three large text-bearing page crops on physical pages 39, 41, and 109 and
   replaced their visible content with selectable HTML plus CSS-built panels.
+- Limited fixed-layout auto-fit to modest font-metric compensation so nominal
+  12 px body text can no longer be compressed to 6–9 px by inaccurate PDF boxes.
+  Browser-audited all 112 pages; body-copy medians remain 11.5–12 px.

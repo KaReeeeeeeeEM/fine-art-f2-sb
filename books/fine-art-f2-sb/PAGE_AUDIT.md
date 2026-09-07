@@ -95,3 +95,17 @@ Reference viewport: 558 x 768 px. Physical page numbers, printed folios, ADT pag
   37 visible reading-order text nodes respectively, no large text raster, and
   no horizontal or vertical overflow. Page 68 independently retained 41 visible
   semantic text nodes and no large text raster.
+
+## 2026-09-07 font-size consistency audit
+
+- Confirmed the source hierarchy rather than forcing one size onto every role:
+  body text is nominally 12 px, captions/source lines 10 px, contents rows
+  11/13 px, and headings generally 16–20 px.
+- Corrected runtime auto-fit, which had reduced some nominal 12 px paragraphs
+  to approximately 7 px when extracted boxes were too narrow. Auto-fit now
+  permits only modest metric compensation and restores the source size when
+  the underlying geometry is substantially wrong.
+- Browser-checked all 112 physical pages at the 558 × 768 reference geometry.
+  Equivalent body-copy medians range from 11.5 to 12 px; no page median is
+  below 11 px. Smaller remaining runs are intentional superscripts or distinct
+  source roles.
