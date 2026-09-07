@@ -71,3 +71,13 @@ Reference viewport: 558 x 768 px. Physical page numbers, printed folios, ADT pag
 - Removed the exposed PDF production timestamp text node from physical page 3.
 - Full 112-page pipeline completed; package check found zero missing local
   `src`/`href` targets. Focused renderer/speech tests and repository typecheck pass.
+
+## 2026-09-07 image-description speech audit
+
+- Compared every meaningful image entry in the packaged English text catalog
+  against the packaged audio map: 139 descriptions, 139 audio files, zero missing.
+- Added the previously missing `pg001_im001` audio for the cover Certificate of
+  Approval. Its narration identifies the issuing ministry, approval purpose,
+  textbook and form, 2023 syllabus, date, signatory, and office.
+- Transcribed the generated 26-second certificate audio to confirm the complete
+  description is spoken. Decorative page furniture remains silent.

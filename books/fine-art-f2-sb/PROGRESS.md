@@ -41,3 +41,8 @@
 - Converted TOC Roman folios to their numeric values in TTS input while
   preserving Roman glyphs in the visible page; verified the generated audio.
 - Regenerated and checked the complete 112-page web package successfully.
+- Regenerated read-aloud output from the latest text catalog so every meaningful
+  image description is included in speech. Verified 139 image descriptions and
+  139 corresponding audio files, with no missing image narration.
+- Restored the cover Certificate of Approval narration in its visual reading
+  position after the title hierarchy and before the publisher line.
