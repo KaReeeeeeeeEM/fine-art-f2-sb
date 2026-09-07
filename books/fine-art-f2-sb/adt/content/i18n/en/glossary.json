@@ -1,244 +1,172 @@
 {
   "abstract": {
     "word": "abstract",
-    "definition": "a style of art that does not try to show real objects exactly as they look",
+    "definition": "a style of art that does not try to show things exactly as they look in real life.",
     "variations": [
-      "abstract",
-      "abstraction"
+      "abstracts",
+      "abstract art"
     ],
     "emoji": "🎨🌀",
     "id": "gl001"
   },
   "abstract art": {
     "word": "abstract art",
-    "definition": "art that focuses on shapes, colours, and lines rather than showing real objects exactly as they are",
+    "definition": "art that uses shapes, colours, and lines without trying to show things exactly as they look in real life.",
     "variations": [
       "abstract art",
+      "abstract arts",
       "abstract"
     ],
-    "emoji": "🌀🎨",
+    "emoji": "🔷🎨",
     "id": "gl002"
-  },
-  "academic discipline": {
-    "word": "academic discipline",
-    "definition": "a subject or field of study that is taught and learned in school or college",
-    "variations": [
-      "academic discipline",
-      "academic disciplines"
-    ],
-    "emoji": "🎓📚",
-    "id": "gl003"
   },
   "accuracy": {
     "word": "accuracy",
-    "definition": "being correct and careful, without mistakes",
+    "definition": "the quality of being correct and exact",
     "variations": [
-      "accuracy",
-      "accurate",
-      "accurately"
+      "accurate"
     ],
-    "emoji": "🎯✔️",
-    "id": "gl004"
+    "emoji": "🎯📏",
+    "id": "gl003"
   },
   "acrylic": {
     "word": "acrylic",
-    "definition": "a type of paint that dries quickly and can be used on many surfaces",
+    "definition": "a type of paint that dries quickly and is often used in art.",
     "variations": [
-      "acrylic",
       "acrylics"
+    ],
+    "emoji": "🎨🖌️",
+    "id": "gl004"
+  },
+  "acrylic paint": {
+    "word": "acrylic paint",
+    "definition": "a fast-drying paint that can be mixed with water and becomes permanent when it dries.",
+    "variations": [
+      "acrylic paint",
+      "acrylic paints",
+      "acrylic colour",
+      "acrylic colors",
+      "acrylic colours"
     ],
     "emoji": "🎨🖌️",
     "id": "gl005"
   },
-  "acrylic paint": {
-    "word": "acrylic paint",
-    "definition": "a fast-drying water-based paint that becomes permanent when dry.",
-    "variations": [
-      "acrylic paint",
-      "acrylic paints",
-      "acrylic",
-      "acrylics"
-    ],
-    "emoji": "🎨🖌️",
-    "id": "gl006"
-  },
   "additive": {
     "word": "additive",
-    "definition": "a printmaking method where ink or marks are added to create the image",
+    "definition": "a technique where ink or paint is added to create an image.",
     "variations": [
       "additive"
     ],
-    "emoji": "➕🖨️",
-    "id": "gl007"
-  },
-  "adhere": {
-    "word": "adhere",
-    "definition": "to stick firmly to a surface",
-    "variations": [
-      "adhere",
-      "adheres",
-      "adhered",
-      "adhering",
-      "adhesion"
-    ],
-    "emoji": "📌🧲",
-    "id": "gl008"
+    "emoji": "➕🎨",
+    "id": "gl006"
   },
   "advertisement": {
     "word": "advertisement",
-    "definition": "a public notice or message made to sell or promote something",
+    "definition": "a public message that promotes a product, event, service, or idea.",
     "variations": [
-      "advertisement",
-      "advertisements"
+      "advertisements",
+      "advertise",
+      "advertising"
     ],
-    "emoji": "📰📢",
-    "id": "gl009"
+    "emoji": "📣📰",
+    "id": "gl007"
   },
   "aesthetic": {
     "word": "aesthetic",
-    "definition": "related to beauty or appearance",
+    "definition": "related to beauty or the way something looks and feels in art.",
     "variations": [
       "aesthetic",
-      "aesthetics",
-      "aesthetic qualities"
+      "aesthetics"
     ],
-    "emoji": "✨🎨",
-    "id": "gl010"
+    "emoji": "🎨👁️",
+    "id": "gl008"
   },
   "aesthetic appeal": {
     "word": "aesthetic appeal",
-    "definition": "the quality of looking pleasing or beautiful.",
+    "definition": "the beauty or pleasing look of something.",
     "variations": [
-      "aesthetic appeal"
+      "aesthetic appeal",
+      "aesthetic appeals",
+      "aesthetic"
     ],
-    "emoji": "👀✨",
-    "id": "gl011"
+    "emoji": "✨🖼️",
+    "id": "gl009"
   },
   "aesthetic value": {
     "word": "aesthetic value",
-    "definition": "the beauty or artistic quality of something",
+    "definition": "the beauty or pleasing appearance of an artwork.",
     "variations": [
       "aesthetic value",
       "aesthetic values",
       "aesthetic"
     ],
-    "emoji": "✨🖼️",
-    "id": "gl012"
-  },
-  "aesthetically pleasing": {
-    "word": "aesthetically pleasing",
-    "definition": "beautiful or pleasant to look at",
-    "variations": [
-      "aesthetically pleasing"
-    ],
     "emoji": "😍🎨",
-    "id": "gl013"
+    "id": "gl010"
   },
   "aesthetics": {
     "word": "aesthetics",
-    "definition": "the study of beauty and art, and how people understand and judge them",
+    "definition": "the study of beauty, art, and what makes things pleasing or meaningful",
     "variations": [
       "aesthetic",
       "aesthetics"
     ],
     "emoji": "🎨✨",
-    "id": "gl014"
+    "id": "gl011"
   },
-  "alignment": {
-    "word": "alignment",
-    "definition": "the way something matches or fits with a goal or purpose",
+  "alternative": {
+    "word": "alternative",
+    "definition": "another choice or different idea",
     "variations": [
-      "alignment",
-      "align"
-    ],
-    "emoji": "📏✅",
-    "id": "gl015"
-  },
-  "alternatives": {
-    "word": "alternatives",
-    "definition": "different choices or other possible ways of doing something",
-    "variations": [
-      "alternative",
       "alternatives"
     ],
     "emoji": "↔️💡",
-    "id": "gl016"
+    "id": "gl012"
   },
   "analyse": {
     "word": "analyse",
-    "definition": "to study something carefully to understand it better",
+    "definition": "to examine something carefully in order to understand it",
     "variations": [
-      "analyse",
       "analysed",
       "analysing",
-      "analysis"
+      "analysis",
+      "analyze",
+      "analyzed",
+      "analyzing"
     ],
-    "emoji": "🔎🧠",
-    "id": "gl017"
+    "emoji": "🔍🧠",
+    "id": "gl013"
   },
   "analysis": {
     "word": "analysis",
-    "definition": "careful study of something to understand it better",
+    "definition": "careful study of an artwork to understand its parts and meaning.",
     "variations": [
       "analysis",
+      "analyses",
       "analyse",
-      "analysing",
-      "analysed"
+      "analysing"
     ],
     "emoji": "🔍🧠",
-    "id": "gl018"
-  },
-  "analytical tool": {
-    "word": "analytical tool",
-    "definition": "a method or idea used to examine and understand something clearly",
-    "variations": [
-      "analytical tool",
-      "analytical tools"
-    ],
-    "emoji": "🔍🧰",
-    "id": "gl019"
+    "id": "gl014"
   },
   "angle": {
     "word": "angle",
-    "definition": "The direction from which you look at an object.",
+    "definition": "the direction or position from which something is seen or drawn",
     "variations": [
+      "angle",
       "angles"
     ],
-    "emoji": "📐👁️",
-    "id": "gl020"
+    "emoji": "📐👀",
+    "id": "gl015"
   },
   "animation": {
     "word": "animation",
-    "definition": "moving images made from drawings, models or computer graphics",
+    "definition": "moving images created from drawings, pictures, or computer graphics.",
     "variations": [
-      "animation",
       "animations",
       "animated"
     ],
-    "emoji": "🎞️🖥️",
-    "id": "gl021"
-  },
-  "announcement": {
-    "word": "announcement",
-    "definition": "something said or written to inform people about news or an event",
-    "variations": [
-      "announcement",
-      "announcements"
-    ],
-    "emoji": "📣🗓️",
-    "id": "gl022"
-  },
-  "application": {
-    "word": "application",
-    "definition": "the way something is used for a particular purpose",
-    "variations": [
-      "application",
-      "applications",
-      "apply",
-      "applied"
-    ],
-    "emoji": "🛠️📌",
-    "id": "gl023"
+    "emoji": "🎞️📺",
+    "id": "gl016"
   },
   "architecture": {
     "word": "architecture",
@@ -248,36 +176,17 @@
       "architectural"
     ],
     "emoji": "🏛️📐",
-    "id": "gl024"
-  },
-  "artistic expression": {
-    "word": "artistic expression",
-    "definition": "the way a person shows ideas or feelings through art",
-    "variations": [
-      "artistic expression",
-      "artistic expressions"
-    ],
-    "emoji": "🎨😊",
-    "id": "gl025"
-  },
-  "artistic venture": {
-    "word": "artistic venture",
-    "definition": "An art activity or project that someone works on seriously.",
-    "variations": [
-      "artistic ventures"
-    ],
-    "emoji": "🎨🚀",
-    "id": "gl026"
+    "id": "gl017"
   },
   "artwork": {
     "word": "artwork",
-    "definition": "a piece of art that someone has made",
+    "definition": "a piece of art such as a drawing, painting, print, or design.",
     "variations": [
       "artwork",
       "artworks"
     ],
     "emoji": "🖼️🎨",
-    "id": "gl027"
+    "id": "gl018"
   },
   "atmospheric perspective": {
     "word": "atmospheric perspective",
@@ -286,125 +195,98 @@
       "atmospheric perspectives"
     ],
     "emoji": "🌫️🎨",
-    "id": "gl028"
+    "id": "gl019"
   },
   "audience": {
     "word": "audience",
-    "definition": "the people for whom an artwork, performance, or message is made",
+    "definition": "the group of people for whom an artwork is made or shown.",
     "variations": [
       "audience",
       "audiences"
     ],
     "emoji": "👥👀",
-    "id": "gl029"
+    "id": "gl020"
   },
   "authenticity": {
     "word": "authenticity",
-    "definition": "the quality of being real, true or honest in form and material",
+    "definition": "the quality of being real, true, and honest in form or materials.",
     "variations": [
-      "authenticity",
       "authentic"
     ],
     "emoji": "✅🪵",
-    "id": "gl030"
+    "id": "gl021"
   },
   "background": {
     "word": "background",
-    "definition": "The part of a picture that appears behind the main objects.",
-    "variations": [
-      "backgrounds"
-    ],
-    "emoji": "🏞️↩️",
-    "id": "gl031"
-  },
-  "backgrounds": {
-    "word": "backgrounds",
-    "definition": "the parts behind the main objects in a drawing or picture",
+    "definition": "the part of an artwork that appears behind the main objects",
     "variations": [
       "background",
       "backgrounds"
     ],
-    "emoji": "🌄🖼️",
-    "id": "gl032"
+    "emoji": "🌄↩️",
+    "id": "gl022"
   },
   "balance": {
     "word": "balance",
-    "definition": "the even arrangement of parts in an artwork so it looks stable",
+    "definition": "the even arrangement of parts in an artwork so that it looks stable and well organized.",
     "variations": [
       "balance",
-      "balances",
       "balanced"
     ],
     "emoji": "⚖️🖼️",
-    "id": "gl033"
+    "id": "gl023"
   },
   "baren": {
     "word": "baren",
-    "definition": "a smooth hand tool used to rub the back of paper to transfer a print",
+    "definition": "a hand tool used to press or rub the back of paper during hand printing so the image transfers clearly",
     "variations": [
       "baren",
       "barens"
     ],
-    "emoji": "🖐️🖨️",
-    "id": "gl034"
+    "emoji": "✋🖨️",
+    "id": "gl024"
   },
   "bibliography": {
     "word": "bibliography",
-    "definition": "a list of books, articles, or other sources used for study or writing",
+    "definition": "a list of books, articles, and other sources used for a book or study",
     "variations": [
       "bibliography",
       "bibliographies"
     ],
     "emoji": "📚📝",
-    "id": "gl035"
+    "id": "gl025"
   },
   "binder": {
     "word": "binder",
-    "definition": "a substance that helps ink or paint stick to a surface",
+    "definition": "a substance added to help color stick firmly to a surface.",
     "variations": [
       "binder",
       "binders"
     ],
-    "emoji": "🪢🎨",
-    "id": "gl036"
+    "emoji": "🧴🔗",
+    "id": "gl026"
   },
   "bird’s eye view": {
     "word": "bird’s eye view",
-    "definition": "a view from above, looking down on an object or place",
-    "variations": [
-      "bird’s eye view",
-      "birds eye view"
-    ],
-    "emoji": "🦅⬇️",
-    "id": "gl037"
+    "definition": "a view from above, looking down on an object",
+    "variations": [],
+    "emoji": "🐦⬇️",
+    "id": "gl027"
   },
   "bleeding": {
     "word": "bleeding",
-    "definition": "the spreading of ink or paint into areas where it should not go.",
+    "definition": "the spreading of ink or paint beyond the intended area",
     "variations": [
-      "bleeding",
       "bleed",
-      "bleeds"
+      "bleeding",
+      "bled"
     ],
     "emoji": "💧🎨",
-    "id": "gl038"
-  },
-  "blended fabrics": {
-    "word": "blended fabrics",
-    "definition": "fabrics made by mixing two or more different kinds of fibers",
-    "variations": [
-      "blended fabric",
-      "blended fabrics",
-      "blend",
-      "blends",
-      "blended"
-    ],
-    "emoji": "🧵🔀",
-    "id": "gl039"
+    "id": "gl028"
   },
   "blot": {
     "word": "blot",
-    "definition": "to press lightly with cloth or paper to remove extra liquid",
+    "definition": "to press lightly with cloth or paper to remove extra liquid.",
     "variations": [
       "blot",
       "blots",
@@ -412,7 +294,7 @@
       "blotting"
     ],
     "emoji": "🧻💧",
-    "id": "gl040"
+    "id": "gl029"
   },
   "blueprint": {
     "word": "blueprint",
@@ -421,19 +303,8 @@
       "blueprint",
       "blueprints"
     ],
-    "emoji": "📘🏗️",
-    "id": "gl041"
-  },
-  "blurred": {
-    "word": "blurred",
-    "definition": "not clear or sharp to the eye",
-    "variations": [
-      "blurred",
-      "blur",
-      "blurry"
-    ],
-    "emoji": "🌫️👀",
-    "id": "gl042"
+    "emoji": "📐📘",
+    "id": "gl030"
   },
   "branding": {
     "word": "branding",
@@ -443,67 +314,58 @@
       "brand"
     ],
     "emoji": "🏷️📦",
-    "id": "gl043"
+    "id": "gl031"
   },
   "brayer": {
     "word": "brayer",
-    "definition": "a small roller used to spread ink or paint evenly on a surface",
+    "definition": "a hand roller used in printmaking to spread ink evenly on a printing plate or surface",
     "variations": [
       "brayer",
       "brayers"
     ],
-    "emoji": "🖌️滚🖨️",
-    "id": "gl044"
+    "emoji": "🌀🖨️",
+    "id": "gl032"
   },
   "bristle": {
     "word": "bristle",
-    "definition": "the stiff hairs of a brush used to hold and spread paint.",
+    "definition": "the stiff hair-like part of a brush used for painting",
     "variations": [
       "bristle",
       "bristles"
     ],
-    "emoji": "🖌️🧵",
-    "id": "gl045"
+    "emoji": "🖌️🐗",
+    "id": "gl033"
   },
-  "brochure": {
-    "word": "brochure",
-    "definition": "a small book or folded paper that gives information about something",
+  "bristle brush": {
+    "word": "bristle brush",
+    "definition": "a brush with stiff hairs used for painting, especially for making strong strokes.",
     "variations": [
-      "brochure",
-      "brochures"
+      "bristle brush",
+      "bristle brushes",
+      "synthetic bristle brush",
+      "synthetic bristle brushes"
     ],
-    "emoji": "📘ℹ️",
-    "id": "gl046"
+    "emoji": "🖌️✨",
+    "id": "gl034"
   },
   "brush": {
     "word": "brush",
-    "definition": "a tool with bristles used for painting.",
+    "definition": "a tool with hairs or bristles used for painting",
     "variations": [
       "brush",
       "brushes"
     ],
-    "emoji": "🖌️🎨",
-    "id": "gl047"
+    "emoji": "🖌️",
+    "id": "gl035"
   },
   "brush strokes": {
     "word": "brush strokes",
-    "definition": "the marks made by a paintbrush on a surface",
+    "definition": "the marks made by a brush when paint is put on a surface.",
     "variations": [
-      "brush stroke",
-      "brush strokes"
+      "brush stroke"
     ],
     "emoji": "🖌️🎨",
-    "id": "gl048"
-  },
-  "campaign": {
-    "word": "campaign",
-    "definition": "a planned set of actions to spread a message or achieve a goal",
-    "variations": [
-      "campaign",
-      "campaigns"
-    ],
-    "emoji": "📣🎯",
-    "id": "gl049"
+    "id": "gl036"
   },
   "canvas": {
     "word": "canvas",
@@ -513,555 +375,437 @@
       "canvases"
     ],
     "emoji": "🖼️🎨",
-    "id": "gl050"
+    "id": "gl037"
   },
   "cardstock": {
     "word": "cardstock",
-    "definition": "thick, strong paper often used for cards and covers",
+    "definition": "thick strong paper often used for cards, covers, and tags.",
     "variations": [
       "cardstock"
     ],
-    "emoji": "📄💌",
-    "id": "gl051"
+    "emoji": "💳📄",
+    "id": "gl038"
   },
   "cartoon": {
     "word": "cartoon",
-    "definition": "a drawing, often funny or exaggerated, used to entertain or send a message",
+    "definition": "a drawing, often funny or exaggerated, used to entertain or communicate a message.",
     "variations": [
-      "cartoon",
       "cartoons"
     ],
     "emoji": "😄✏️",
-    "id": "gl052"
+    "id": "gl039"
   },
   "centre of interest": {
     "word": "centre of interest",
-    "definition": "The part of an artwork that attracts the most attention first.",
+    "definition": "the part of an artwork that attracts the most attention first",
     "variations": [
-      "centres of interest",
-      "center of interest",
-      "centers of interest"
+      "centre of interest",
+      "centres of interest"
     ],
     "emoji": "🎯👀",
-    "id": "gl053"
-  },
-  "ceramics": {
-    "word": "ceramics",
-    "definition": "objects made from clay and hardened by heat",
-    "variations": [
-      "ceramic",
-      "ceramics"
-    ],
-    "emoji": "🏺🔥",
-    "id": "gl054"
+    "id": "gl040"
   },
   "characteristics": {
     "word": "characteristics",
-    "definition": "the special features or qualities that make something what it is",
+    "definition": "the main qualities or features that help describe something",
     "variations": [
-      "characteristic",
-      "characteristics"
+      "characteristic"
     ],
-    "emoji": "🔍📘",
-    "id": "gl055"
-  },
-  "characterization": {
-    "word": "characterization",
-    "definition": "the act of describing the main qualities or features of something",
-    "variations": [
-      "characterization",
-      "characterize",
-      "characterized",
-      "characterizing"
-    ],
-    "emoji": "📝🔎",
-    "id": "gl056"
+    "emoji": "📋🔍",
+    "id": "gl041"
   },
   "charcoal": {
     "word": "charcoal",
-    "definition": "a black drawing material often used for sketching and shading",
+    "definition": "a black drawing material often used for shading and sketching",
     "variations": [
       "charcoal"
     ],
-    "emoji": "✏️⚫",
-    "id": "gl057"
+    "emoji": "⚫✏️",
+    "id": "gl042"
   },
-  "circular": {
-    "word": "circular",
-    "definition": "a printed notice or advertisement given to many people",
+  "colour": {
+    "word": "colour",
+    "definition": "the different shades seen in art, used to make pictures expressive or attractive.",
     "variations": [
-      "circular",
-      "circulars"
+      "colour",
+      "colours"
     ],
-    "emoji": "📄📬",
-    "id": "gl058"
+    "emoji": "🌈🎨",
+    "id": "gl043"
   },
-  "clarify": {
-    "word": "clarify",
-    "definition": "to make something easier to understand",
+  "colour values": {
+    "word": "colour values",
+    "definition": "how light or dark a colour is",
     "variations": [
-      "clarify",
-      "clarifying",
-      "clarified"
-    ],
-    "emoji": "💡📖",
-    "id": "gl059"
-  },
-  "clarity": {
-    "word": "clarity",
-    "definition": "the quality of being clear and easy to understand",
-    "variations": [
-      "clarity",
-      "clear"
-    ],
-    "emoji": "🔎💡",
-    "id": "gl060"
-  },
-  "cohesive": {
-    "word": "cohesive",
-    "definition": "well connected so that all parts fit together",
-    "variations": [
-      "cohesive"
-    ],
-    "emoji": "🧩🤝",
-    "id": "gl061"
-  },
-  "colour mixing": {
-    "word": "colour mixing",
-    "definition": "the act of combining two or more colours to make a new colour.",
-    "variations": [
-      "colour mixing",
-      "color mixing",
-      "mixing colours",
-      "mixing colors"
+      "colour value",
+      "values"
     ],
     "emoji": "🎨🌈",
-    "id": "gl062"
-  },
-  "colour wash": {
-    "word": "colour wash",
-    "definition": "a thin, light layer of watered-down colour.",
-    "variations": [
-      "colour wash",
-      "colour washes"
-    ],
-    "emoji": "🎨💦",
-    "id": "gl063"
+    "id": "gl044"
   },
   "colour wheel": {
     "word": "colour wheel",
-    "definition": "A circle that shows colors and how they relate to one another.",
+    "definition": "a chart that shows colours arranged in a circle to help artists choose colour combinations",
     "variations": [
+      "colour wheel",
       "colour wheels"
     ],
-    "emoji": "🌈🎡",
-    "id": "gl064"
+    "emoji": "🎨🔵🟡",
+    "id": "gl045"
   },
   "colourfastness": {
     "word": "colourfastness",
-    "definition": "the ability of a fabric or material to keep its colour without fading or washing out",
+    "definition": "the ability of a color to stay strong without washing out or fading.",
     "variations": [
-      "colourfastness"
+      "colourfastness",
+      "colorfastness"
     ],
-    "emoji": "🌈🧺",
-    "id": "gl065"
+    "emoji": "🌈🧼",
+    "id": "gl046"
   },
-  "compartments": {
-    "word": "compartments",
-    "definition": "separate sections or spaces inside something, like a bag",
+  "compartment": {
+    "word": "compartment",
+    "definition": "one separate space or section inside something",
     "variations": [
-      "compartment",
       "compartments"
     ],
-    "emoji": "🎒🗂️",
-    "id": "gl066"
+    "emoji": "🎒📦",
+    "id": "gl047"
   },
   "component": {
     "word": "component",
-    "definition": "one part of a larger whole",
+    "definition": "one part of something larger",
     "variations": [
-      "component",
       "components"
     ],
     "emoji": "🧩🔧",
-    "id": "gl067"
+    "id": "gl048"
   },
   "composition": {
     "word": "composition",
-    "definition": "the way visual parts are arranged in an artwork",
+    "definition": "the way parts of a drawing or artwork are arranged",
     "variations": [
-      "composition",
-      "compositions"
+      "compositions",
+      "compose",
+      "composed"
     ],
-    "emoji": "🖼️📐",
-    "id": "gl068"
+    "emoji": "🧩🎨",
+    "id": "gl049"
   },
   "conceptual": {
     "word": "conceptual",
-    "definition": "based on an idea or plan rather than the finished object itself.",
+    "definition": "based on an idea or plan rather than the final finished thing",
     "variations": [
       "conceptual"
     ],
-    "emoji": "💡🧠",
-    "id": "gl069"
+    "emoji": "💡📝",
+    "id": "gl050"
   },
   "conceptual drawing": {
     "word": "conceptual drawing",
-    "definition": "a drawing that shows an idea or plan before the real object is made",
+    "definition": "a drawing that shows an idea or plan before the real thing is made",
     "variations": [
-      "conceptual drawing",
-      "conceptual drawings"
+      "conceptual drawings",
+      "concept drawing",
+      "concept drawings"
     ],
     "emoji": "💡✏️",
-    "id": "gl070"
+    "id": "gl051"
   },
   "consumer": {
     "word": "consumer",
-    "definition": "a person who buys or uses a product.",
+    "definition": "a person who buys or uses goods or services",
     "variations": [
       "consumer",
       "consumers"
     ],
     "emoji": "🛍️👤",
-    "id": "gl071"
-  },
-  "contemporary": {
-    "word": "contemporary",
-    "definition": "modern or belonging to the present time",
-    "variations": [
-      "contemporary"
-    ],
-    "emoji": "🕒🎨",
-    "id": "gl072"
+    "id": "gl052"
   },
   "context": {
     "word": "context",
-    "definition": "the situation or background that helps explain something",
+    "definition": "the situation, background, or setting that helps explain something.",
     "variations": [
       "context",
       "contexts"
     ],
-    "emoji": "🌍📖",
-    "id": "gl073"
+    "emoji": "🌍🧠",
+    "id": "gl053"
+  },
+  "contextual": {
+    "word": "contextual",
+    "definition": "related to the situation, background, or setting of something",
+    "variations": [
+      "contextual",
+      "context"
+    ],
+    "emoji": "🌍🧠",
+    "id": "gl054"
   },
   "contrast": {
     "word": "contrast",
-    "definition": "a clear difference between parts, such as light and dark or big and small",
-    "variations": [
-      "contrast",
-      "contrasts"
-    ],
+    "definition": "the difference between light and dark, or between strong and weak colours",
+    "variations": [],
     "emoji": "⚫⚪",
-    "id": "gl074"
+    "id": "gl055"
   },
   "converge": {
     "word": "converge",
-    "definition": "to come together toward one point",
+    "definition": "to come together and appear to meet at one point",
     "variations": [
       "converges",
       "converged",
       "converging"
     ],
     "emoji": "➡️📍",
-    "id": "gl075"
+    "id": "gl056"
   },
   "coverage": {
     "word": "coverage",
-    "definition": "how fully ink or paint spreads across a surface.",
+    "definition": "how completely ink or paint spreads over a surface",
     "variations": [
       "coverage"
     ],
-    "emoji": "🖨️📄",
-    "id": "gl076"
+    "emoji": "🖌️📏",
+    "id": "gl057"
   },
-  "cracking": {
-    "word": "cracking",
-    "definition": "forming small breaks or lines on a surface",
+  "curator": {
+    "word": "curator",
+    "definition": "a person who selects, organizes, and cares for artworks in a gallery or museum.",
     "variations": [
-      "crack",
-      "cracks",
-      "cracked",
-      "cracking"
+      "curator",
+      "curators"
     ],
-    "emoji": "⚡🪵",
-    "id": "gl077"
+    "emoji": "🖼️🏛️",
+    "id": "gl058"
   },
   "curve": {
     "word": "curve",
-    "definition": "a line or shape that bends smoothly and is not straight",
+    "definition": "a line or shape that bends smoothly instead of being straight",
     "variations": [
       "curve",
       "curves",
       "curved"
     ],
-    "emoji": "〰️⭕",
-    "id": "gl078"
+    "emoji": "〰️☕",
+    "id": "gl059"
+  },
+  "damp": {
+    "word": "damp",
+    "definition": "slightly wet, but not dripping with water.",
+    "variations": [
+      "damp",
+      "dampen",
+      "dampened"
+    ],
+    "emoji": "💧🧻",
+    "id": "gl060"
   },
   "decorative": {
     "word": "decorative",
-    "definition": "made mainly to make something look more beautiful",
+    "definition": "made mainly to make something look more attractive or beautiful.",
     "variations": [
       "decorative",
-      "decoration"
+      "decoration",
+      "decorate"
     ],
     "emoji": "🌸✨",
-    "id": "gl079"
+    "id": "gl061"
   },
   "decorative art": {
     "word": "decorative art",
-    "definition": "art made mainly to make a place or object look more beautiful",
+    "definition": "art made mainly to make a place or object look more beautiful.",
     "variations": [
       "decorative art",
-      "decorative arts",
-      "decorative"
+      "decorative arts"
     ],
-    "emoji": "🌸🖼️",
-    "id": "gl080"
+    "emoji": "✨🖼️",
+    "id": "gl062"
   },
   "depict": {
     "word": "depict",
-    "definition": "to show or represent something in a picture or artwork",
+    "definition": "to show or represent something in a drawing or painting",
     "variations": [
-      "depict",
       "depicts",
       "depicted",
       "depicting"
     ],
-    "emoji": "✏️🖼️",
-    "id": "gl081"
+    "emoji": "🖌️🖼️",
+    "id": "gl063"
   },
   "depth": {
     "word": "depth",
-    "definition": "the sense that a picture has distance or space from front to back",
-    "variations": [
-      "depth",
-      "depths"
-    ],
-    "emoji": "🕳️🖼️",
-    "id": "gl082"
+    "definition": "the sense that some parts of a picture are near and others are far away",
+    "variations": [],
+    "emoji": "↔️🖼️",
+    "id": "gl064"
   },
   "detail": {
     "word": "detail",
-    "definition": "A small part of a picture that makes it clearer, richer, or more realistic.",
+    "definition": "a small part of an artwork that adds more information or realism",
     "variations": [
+      "detail",
       "details"
     ],
-    "emoji": "🔍🖼️",
-    "id": "gl083"
+    "emoji": "🔍✨",
+    "id": "gl065"
   },
   "digital media": {
     "word": "digital media",
-    "definition": "art made or shown using computers or electronic devices",
+    "definition": "art made or shown using electronic devices such as computers or tablets.",
     "variations": [
-      "digital medium",
-      "digital media"
+      "digital medium"
     ],
     "emoji": "💻📱🎨",
-    "id": "gl084"
+    "id": "gl066"
   },
   "diluted": {
     "word": "diluted",
-    "definition": "made thinner or weaker by adding water or another liquid.",
+    "definition": "made thinner or weaker by adding water or another liquid",
     "variations": [
       "diluted",
       "dilute",
       "diluting"
     ],
-    "emoji": "💧🧴",
-    "id": "gl085"
+    "emoji": "💧🎨",
+    "id": "gl067"
   },
-  "discarded": {
-    "word": "discarded",
-    "definition": "thrown away because it is not wanted anymore",
+  "direct observation": {
+    "word": "direct observation",
+    "definition": "carefully looking at real objects while drawing or painting them",
     "variations": [
-      "discard",
-      "discards",
-      "discarded",
-      "discarding"
+      "direct observation"
     ],
-    "emoji": "🗑️🚮",
-    "id": "gl086"
+    "emoji": "👀🪑",
+    "id": "gl068"
   },
   "discipline": {
     "word": "discipline",
-    "definition": "a branch of study or area of knowledge",
+    "definition": "a field of study or area of knowledge.",
     "variations": [
       "discipline",
       "disciplines"
     ],
-    "emoji": "📚🧠",
-    "id": "gl087"
+    "emoji": "📚🎓",
+    "id": "gl069"
   },
   "distribution": {
     "word": "distribution",
-    "definition": "the act of giving out or spreading something to many people or places",
+    "definition": "the act of giving out or spreading something to many people or places.",
     "variations": [
       "distribution",
       "distribute",
       "distributed"
     ],
-    "emoji": "📬📄",
-    "id": "gl088"
+    "emoji": "📤🌍",
+    "id": "gl070"
+  },
+  "drawing": {
+    "word": "drawing",
+    "definition": "a picture made with lines, usually using a pencil, pen, or charcoal",
+    "variations": [
+      "drawing",
+      "drawings",
+      "draw"
+    ],
+    "emoji": "✏️🖼️",
+    "id": "gl071"
   },
   "durability": {
     "word": "durability",
-    "definition": "the ability of a material or object to last a long time without damage",
+    "definition": "the ability to last a long time without damage.",
     "variations": [
       "durability",
       "durable"
     ],
     "emoji": "🧱⏳",
-    "id": "gl089"
+    "id": "gl072"
   },
   "durable": {
     "word": "durable",
-    "definition": "strong and able to last a long time without damage",
+    "definition": "strong and able to last a long time without damage.",
     "variations": [
       "durable",
       "durability"
     ],
     "emoji": "💪⏳",
-    "id": "gl090"
+    "id": "gl073"
   },
-  "dyeing": {
-    "word": "dyeing",
-    "definition": "the process of adding colour to cloth or other materials",
+  "easel": {
+    "word": "easel",
+    "definition": "a stand that holds a canvas or board while painting",
     "variations": [
-      "dye",
-      "dyes",
-      "dyed",
-      "dyeing"
+      "easel",
+      "easels"
     ],
-    "emoji": "🎨🧵",
-    "id": "gl091"
-  },
-  "dynamic": {
-    "word": "dynamic",
-    "definition": "full of energy or movement",
-    "variations": [
-      "dynamic"
-    ],
-    "emoji": "⚡🌀",
-    "id": "gl092"
+    "emoji": "🪵🖼️",
+    "id": "gl074"
   },
   "edge": {
     "word": "edge",
-    "definition": "the outer line or border of a shape or object in an artwork",
+    "definition": "the outer line or border of a shape or object",
     "variations": [
       "edge",
       "edges"
     ],
-    "emoji": "📐✏️",
-    "id": "gl093"
-  },
-  "effectiveness": {
-    "word": "effectiveness",
-    "definition": "the ability to produce the wanted result",
-    "variations": [
-      "effectiveness",
-      "effective"
-    ],
-    "emoji": "✅🎯",
-    "id": "gl094"
-  },
-  "efficiency": {
-    "word": "efficiency",
-    "definition": "doing something well without wasting time or effort",
-    "variations": [
-      "efficiency",
-      "efficient"
-    ],
-    "emoji": "⚙️⏱️",
-    "id": "gl095"
-  },
-  "elementary": {
-    "word": "elementary",
-    "definition": "basic or simple; also related to the first years of school",
-    "variations": [
-      "elementary"
-    ],
-    "emoji": "📖🧒",
-    "id": "gl096"
-  },
-  "elements of art": {
-    "word": "elements of art",
-    "definition": "the basic parts used to make art, such as line, shape, colour, and texture.",
-    "variations": [
-      "element of art",
-      "elements of art"
-    ],
-    "emoji": "🎨📏",
-    "id": "gl097"
+    "emoji": "📏✏️",
+    "id": "gl075"
   },
   "embellished": {
     "word": "embellished",
-    "definition": "made more decorative by adding extra details",
+    "definition": "decorated with extra details, sometimes more than necessary.",
     "variations": [
       "embellish",
-      "embellished",
-      "embellishment"
+      "embellishment",
+      "embellishing"
     ],
-    "emoji": "✨🖌️",
-    "id": "gl098"
+    "emoji": "✨🎀",
+    "id": "gl076"
   },
   "embroidery hoop": {
     "word": "embroidery hoop",
-    "definition": "a round frame used to hold fabric or mesh tightly in place.",
+    "definition": "a round frame used to hold fabric or mesh tightly in place",
     "variations": [
       "embroidery hoop",
-      "embroidery hoops",
-      "hoop",
-      "hoops"
+      "embroidery hoops"
     ],
     "emoji": "⭕🧵",
-    "id": "gl099"
-  },
-  "emotional message": {
-    "word": "emotional message",
-    "definition": "a feeling or emotion that an artwork tries to communicate",
-    "variations": [
-      "emotional message",
-      "emotional messages"
-    ],
-    "emoji": "❤️😌",
-    "id": "gl100"
-  },
-  "emphasise": {
-    "word": "emphasise",
-    "definition": "to give special importance to something",
-    "variations": [
-      "emphasise",
-      "emphasises",
-      "emphasis"
-    ],
-    "emoji": "❗🗣️",
-    "id": "gl101"
+    "id": "gl077"
   },
   "essential": {
     "word": "essential",
     "definition": "very important or necessary",
-    "variations": [
-      "essential",
-      "essentials"
-    ],
+    "variations": [],
     "emoji": "⭐✔️",
-    "id": "gl102"
+    "id": "gl078"
+  },
+  "evaluate": {
+    "word": "evaluate",
+    "definition": "to examine something carefully to judge its quality or success.",
+    "variations": [
+      "evaluate",
+      "evaluates",
+      "evaluated",
+      "evaluating",
+      "evaluation"
+    ],
+    "emoji": "🔍✅",
+    "id": "gl079"
   },
   "evaluation": {
     "word": "evaluation",
-    "definition": "the act of judging the quality, value, or importance of something",
+    "definition": "judging the quality or value of an artwork.",
     "variations": [
       "evaluation",
-      "evaluate",
-      "evaluating",
-      "evaluated"
+      "evaluations",
+      "evaluate"
     ],
-    "emoji": "📊✅",
-    "id": "gl103"
+    "emoji": "✅🎨",
+    "id": "gl080"
   },
   "evaporate": {
     "word": "evaporate",
-    "definition": "to change from liquid into gas and dry up.",
+    "definition": "to change from liquid into gas and dry up",
     "variations": [
       "evaporate",
       "evaporates",
@@ -1069,635 +813,486 @@
       "evaporating"
     ],
     "emoji": "💨💧",
-    "id": "gl104"
+    "id": "gl081"
   },
   "exaggeration": {
     "word": "exaggeration",
-    "definition": "making something seem bigger, stronger or more important than it really is",
+    "definition": "making something seem bigger, stronger, or more important than it really is to create effect.",
     "variations": [
-      "exaggeration",
       "exaggerate",
       "exaggerated"
     ],
-    "emoji": "😲✏️",
-    "id": "gl105"
+    "emoji": "😲📢",
+    "id": "gl082"
   },
   "exploration": {
     "word": "exploration",
-    "definition": "careful trying, studying, or discovering of ideas or possibilities",
+    "definition": "careful trying, studying, or searching to learn more about something",
     "variations": [
-      "exploration",
       "explore",
       "explores",
       "explored",
       "exploring"
     ],
     "emoji": "🔍🧭",
-    "id": "gl106"
-  },
-  "expression": {
-    "word": "expression",
-    "definition": "the act of showing thoughts, feelings, or ideas",
-    "variations": [
-      "expression",
-      "expressions",
-      "expressive"
-    ],
-    "emoji": "😊🎨",
-    "id": "gl107"
+    "id": "gl083"
   },
   "eye level": {
     "word": "eye level",
     "definition": "the height of the viewer’s eyes, which helps decide where the horizon line is",
-    "variations": [
-      "eye levels"
-    ],
+    "variations": [],
     "emoji": "👀📍",
-    "id": "gl108"
+    "id": "gl084"
   },
   "fabric": {
     "word": "fabric",
-    "definition": "cloth material used for making things like T-shirts, bags, or other printed items.",
+    "definition": "cloth material used for making clothes and other textile items.",
     "variations": [
       "fabric",
       "fabrics"
     ],
     "emoji": "🧵👕",
-    "id": "gl109"
-  },
-  "facilitate": {
-    "word": "facilitate",
-    "definition": "to make something easier to do or understand",
-    "variations": [
-      "facilitate",
-      "facilitating",
-      "facilitated"
-    ],
-    "emoji": "🤝💡",
-    "id": "gl110"
-  },
-  "facilitator": {
-    "word": "facilitator",
-    "definition": "a person who helps others learn, discuss or understand something",
-    "variations": [
-      "facilitator",
-      "facilitators"
-    ],
-    "emoji": "🧑‍🏫🤝",
-    "id": "gl111"
+    "id": "gl085"
   },
   "fading": {
     "word": "fading",
-    "definition": "becoming lighter or less bright in colour over time",
+    "definition": "becoming less bright or less strong in color over time.",
     "variations": [
       "fade",
       "fades",
       "faded",
       "fading"
     ],
-    "emoji": "🌤️🎨",
-    "id": "gl112"
+    "emoji": "🌫️🎨",
+    "id": "gl086"
   },
   "ferrule": {
     "word": "ferrule",
-    "definition": "the metal part of a brush that holds the bristles to the handle.",
+    "definition": "the metal part of a paintbrush that holds the bristles and connects them to the handle",
     "variations": [
       "ferrule",
       "ferrules"
     ],
     "emoji": "🖌️🔩",
-    "id": "gl113"
+    "id": "gl087"
   },
   "fixative": {
     "word": "fixative",
-    "definition": "a substance used to help colour or ink stay in place",
+    "definition": "a substance used to help ink, paint, or dye stay in place.",
     "variations": [
       "fixative",
       "fixatives"
     ],
-    "emoji": "🧴🔒",
-    "id": "gl114"
+    "emoji": "🧪🔒",
+    "id": "gl088"
   },
   "flier": {
     "word": "flier",
-    "definition": "a small printed paper used to advertise or give information",
+    "definition": "a small printed sheet used to advertise or share information about something.",
     "variations": [
-      "flier",
       "fliers"
     ],
     "emoji": "📄📣",
-    "id": "gl115"
-  },
-  "fluid": {
-    "word": "fluid",
-    "definition": "smooth and flowing in movement or shape",
-    "variations": [
-      "fluid",
-      "fluids"
-    ],
-    "emoji": "🌊🖌️",
-    "id": "gl116"
-  },
-  "focal area": {
-    "word": "focal area",
-    "definition": "the part of an artwork that attracts the most attention",
-    "variations": [
-      "focal area",
-      "focal point"
-    ],
-    "emoji": "🎯👁️",
-    "id": "gl117"
+    "id": "gl089"
   },
   "foreground": {
     "word": "foreground",
-    "definition": "The part of a picture that appears closest to the viewer.",
+    "definition": "the part of an artwork that appears closest to the viewer",
     "variations": [
+      "foreground",
       "foregrounds"
     ],
     "emoji": "⬅️👀",
-    "id": "gl118"
+    "id": "gl090"
   },
   "form": {
     "word": "form",
-    "definition": "The shape of an object as it appears to have volume or thickness.",
+    "definition": "the solid shape of an object, showing that it has volume and is not flat",
     "variations": [
+      "form",
       "forms"
     ],
-    "emoji": "⬛🧱",
-    "id": "gl119"
+    "emoji": "⬛🔶",
+    "id": "gl091"
   },
   "formalism": {
     "word": "formalism",
-    "definition": "a theory of art that judges artwork mainly by its visual parts like line, colour, shape, and arrangement",
+    "definition": "a way of looking at art that focuses on visual features like line, colour, shape, and composition more than story or meaning.",
     "variations": [
       "formalism",
       "formalist",
       "formalistic"
     ],
     "emoji": "🖼️📐",
-    "id": "gl120"
+    "id": "gl092"
   },
   "format": {
     "word": "format",
-    "definition": "the size, shape, or arrangement of something",
+    "definition": "the shape or layout of a picture, such as landscape or portrait",
     "variations": [
       "format",
       "formats"
     ],
-    "emoji": "📐🗂️",
-    "id": "gl121"
+    "emoji": "⬛🖼️",
+    "id": "gl093"
+  },
+  "freehand": {
+    "word": "freehand",
+    "definition": "done by drawing or making something by hand without using guides or tools",
+    "variations": [
+      "freehand"
+    ],
+    "emoji": "✍️🎨",
+    "id": "gl094"
+  },
+  "functional": {
+    "word": "functional",
+    "definition": "made to be useful and practical, not only decorative.",
+    "variations": [
+      "functional",
+      "function"
+    ],
+    "emoji": "🛠️✅",
+    "id": "gl095"
   },
   "functional art": {
     "word": "functional art",
-    "definition": "art that is made to be beautiful and also useful for a practical purpose",
+    "definition": "art that is made to be both beautiful and useful in everyday life",
     "variations": [
-      "functional art",
       "functional arts"
     ],
     "emoji": "🎨🪑",
-    "id": "gl122"
+    "id": "gl096"
   },
   "functional drawing": {
     "word": "functional drawing",
-    "definition": "a drawing made to show or plan an object that has a real use in daily life",
+    "definition": "a drawing made to show an object that has a practical use or to help create it",
     "variations": [
-      "functional drawing",
-      "functional drawings"
+      "functional drawings",
+      "simple functional drawing",
+      "simple functional drawings"
     ],
     "emoji": "✏️📐",
-    "id": "gl123"
+    "id": "gl097"
   },
   "functional painting": {
     "word": "functional painting",
-    "definition": "painting that is made to be useful as well as beautiful.",
+    "definition": "a painting made not only to look nice but also to serve a practical purpose in daily life.",
     "variations": [
       "functional painting",
-      "functional paintings"
+      "functional paintings",
+      "simple functional painting",
+      "simple functional paintings"
     ],
     "emoji": "🎨🛠️",
-    "id": "gl124"
+    "id": "gl098"
   },
   "functionalism": {
     "word": "functionalism",
-    "definition": "a theory of art that values artwork for the use or purpose it serves",
+    "definition": "a way of understanding art by looking at the purpose or use of the artwork.",
     "variations": [
       "functionalism",
       "functionalist",
       "functional"
     ],
     "emoji": "🛠️🎨",
-    "id": "gl125"
+    "id": "gl099"
   },
   "functionality": {
     "word": "functionality",
-    "definition": "the quality of being useful and able to do its job well",
+    "definition": "the quality of being useful and able to do the job it is meant to do.",
     "variations": [
       "functionality",
       "functional"
     ],
-    "emoji": "✅🧩",
-    "id": "gl126"
+    "emoji": "⚙️✅",
+    "id": "gl100"
   },
   "fundamentals": {
     "word": "fundamentals",
-    "definition": "the basic and most important ideas or skills of a subject",
+    "definition": "the basic and most important parts of a subject",
     "variations": [
       "fundamental",
       "fundamentals"
     ],
-    "emoji": "📚🏗️",
-    "id": "gl127"
+    "emoji": "📘🔑",
+    "id": "gl101"
   },
   "gel plate": {
     "word": "gel plate",
-    "definition": "a soft, reusable surface used to make monoprints.",
+    "definition": "a soft, reusable plate used for making monoprints without a printing press",
     "variations": [
       "gel plate",
       "gel plates"
     ],
-    "emoji": "🟪🖨️",
-    "id": "gl128"
+    "emoji": "🟦🖨️",
+    "id": "gl102"
   },
   "genre": {
     "word": "genre",
-    "definition": "a type or category of art, music, or literature",
+    "definition": "a type or category of art, music, or literature.",
     "variations": [
       "genre",
       "genres"
     ],
-    "emoji": "📚🎨",
-    "id": "gl129"
+    "emoji": "🗂️🎭",
+    "id": "gl103"
   },
   "geometric": {
     "word": "geometric",
-    "definition": "made using regular shapes like circles, squares, and triangles",
+    "definition": "having to do with shapes such as lines, circles, angles, and solids",
     "variations": [
-      "geometric",
+      "geometry",
       "geometrical"
     ],
     "emoji": "📐🔺",
-    "id": "gl130"
+    "id": "gl104"
   },
   "geometric shapes": {
     "word": "geometric shapes",
-    "definition": "shapes with clear mathematical forms, like circles, squares and triangles",
+    "definition": "shapes with clear mathematical forms, such as circles, squares, and triangles.",
     "variations": [
-      "geometric shape",
-      "geometric shapes"
+      "geometric shape"
     ],
     "emoji": "🔺⚪⬛",
-    "id": "gl131"
+    "id": "gl105"
   },
   "graffiti": {
     "word": "graffiti",
-    "definition": "art or writing made on walls or public surfaces, often in streets.",
+    "definition": "art or writing made on walls or public places, often using paint or spray",
     "variations": [
       "graffiti"
     ],
     "emoji": "🏙️🎨",
-    "id": "gl132"
+    "id": "gl106"
   },
   "graphite": {
     "word": "graphite",
     "definition": "a soft black material used in pencils for drawing",
-    "variations": [
-      "graphite"
-    ],
+    "variations": [],
     "emoji": "✏️⚫",
-    "id": "gl133"
-  },
-  "handle": {
-    "word": "handle",
-    "definition": "the part of a brush that you hold in your hand.",
-    "variations": [
-      "handle",
-      "handles"
-    ],
-    "emoji": "✋🖌️",
-    "id": "gl134"
-  },
-  "harmonizing": {
-    "word": "harmonizing",
-    "definition": "making colours or parts of an artwork work well together.",
-    "variations": [
-      "harmonize",
-      "harmonized",
-      "harmonizing",
-      "harmonises",
-      "harmonizes"
-    ],
-    "emoji": "🎨🤝",
-    "id": "gl135"
+    "id": "gl107"
   },
   "harmony": {
     "word": "harmony",
-    "definition": "the pleasing arrangement of parts that work well together in an artwork",
+    "definition": "the pleasing way in which parts of an artwork fit well together.",
     "variations": [
       "harmony",
       "harmonious"
     ],
     "emoji": "🎶🖼️",
-    "id": "gl136"
+    "id": "gl108"
   },
   "highlight": {
     "word": "highlight",
-    "definition": "a bright area in a painting that shows where light falls.",
+    "definition": "the lightest part of a painting that shows where light falls",
     "variations": [
       "highlight",
       "highlights"
     ],
-    "emoji": "✨💡",
-    "id": "gl137"
-  },
-  "hog hair": {
-    "word": "hog hair",
-    "definition": "stiff brush hair taken from a pig, often used for thicker paint.",
-    "variations": [
-      "hog hair"
-    ],
-    "emoji": "🐖🖌️",
-    "id": "gl138"
+    "emoji": "💡✨",
+    "id": "gl109"
   },
   "horizon line": {
     "word": "horizon line",
-    "definition": "The line where the sky seems to meet the land or water; it helps place objects correctly in a picture.",
+    "definition": "the line where the sky seems to meet the land or water",
     "variations": [
       "horizon lines"
     ],
-    "emoji": "🌄📏",
-    "id": "gl139"
+    "emoji": "🌅📏",
+    "id": "gl110"
   },
   "illusion": {
     "word": "illusion",
-    "definition": "something that seems real or true but is not actually so",
+    "definition": "something made to look real even though it is not actually real",
     "variations": [
-      "illusion",
       "illusions"
     ],
-    "emoji": "🎭👁️",
-    "id": "gl140"
+    "emoji": "👁️✨",
+    "id": "gl111"
+  },
+  "illusion of reality": {
+    "word": "illusion of reality",
+    "definition": "an effect in art that makes something look real even though it is only a drawing or painting",
+    "variations": [
+      "illusion of reality",
+      "illusions of reality"
+    ],
+    "emoji": "👁️🎭",
+    "id": "gl112"
   },
   "illustration": {
     "word": "illustration",
-    "definition": "a drawing or picture made to explain or support an idea or text",
+    "definition": "a drawing or picture made to explain, clarify, or support an idea or text.",
     "variations": [
-      "illustration",
       "illustrations",
-      "illustrative"
+      "illustrated",
+      "illustrate"
     ],
-    "emoji": "✏️📘",
-    "id": "gl141"
+    "emoji": "🖍️📘",
+    "id": "gl113"
   },
-  "image": {
-    "word": "image",
-    "definition": "a picture or visual design of something.",
+  "imagery": {
+    "word": "imagery",
+    "definition": "pictures or visual images used in an artwork or design.",
     "variations": [
       "image",
       "images"
     ],
     "emoji": "🖼️👁️",
-    "id": "gl142"
-  },
-  "imagery": {
-    "word": "imagery",
-    "definition": "pictures or visual images used in an artwork or design",
-    "variations": [
-      "imagery"
-    ],
-    "emoji": "🖼️👁️",
-    "id": "gl143"
-  },
-  "impact": {
-    "word": "impact",
-    "definition": "the effect or influence something has on people or society",
-    "variations": [
-      "impact",
-      "impacts"
-    ],
-    "emoji": "💥🌍",
-    "id": "gl144"
+    "id": "gl114"
   },
   "inanimate": {
     "word": "inanimate",
-    "definition": "not alive and not moving by itself",
+    "definition": "not alive and not moving by itself.",
     "variations": [
       "inanimate"
     ],
-    "emoji": "🪨📦",
-    "id": "gl145"
+    "emoji": "🍶🪨",
+    "id": "gl115"
   },
-  "inanimate objects": {
-    "word": "inanimate objects",
-    "definition": "Things that are not alive, such as bottles, plates, or chairs.",
+  "inanimate object": {
+    "word": "inanimate object",
+    "definition": "a non-living object, such as a bottle, plate, or chair",
     "variations": [
-      "inanimate object"
+      "inanimate object",
+      "inanimate objects"
     ],
-    "emoji": "🍽️🪑",
-    "id": "gl146"
+    "emoji": "🪑🍶",
+    "id": "gl116"
   },
-  "influence": {
-    "word": "influence",
-    "definition": "to affect the way people think or act",
+  "ink": {
+    "word": "ink",
+    "definition": "a colored liquid or paste used for printing, drawing, or writing.",
     "variations": [
-      "influence",
-      "influencing",
-      "influential"
+      "ink",
+      "inks",
+      "inked",
+      "inking"
     ],
-    "emoji": "🧠📣",
-    "id": "gl147"
+    "emoji": "🖋️🎨",
+    "id": "gl117"
   },
   "ink slab": {
     "word": "ink slab",
-    "definition": "a flat surface used for mixing and holding ink in printmaking.",
+    "definition": "a flat surface used for mixing and holding ink in printmaking",
     "variations": [
       "ink slab",
       "ink slabs"
     ],
-    "emoji": "⬛🎨",
-    "id": "gl148"
+    "emoji": "🖤🪨",
+    "id": "gl118"
   },
-  "inked plate": {
-    "word": "inked plate",
-    "definition": "a flat surface covered with ink and used to transfer an image in printing.",
+  "innovation": {
+    "word": "innovation",
+    "definition": "the creation of new ideas, methods, or products",
     "variations": [
-      "inked plate",
-      "inked plates",
-      "plate",
-      "plates"
+      "innovation",
+      "innovations",
+      "innovative"
     ],
-    "emoji": "🖨️⬛",
-    "id": "gl149"
+    "emoji": "💡🚀",
+    "id": "gl119"
   },
   "instructional": {
     "word": "instructional",
-    "definition": "meant for teaching or giving directions",
+    "definition": "meant to teach or give directions",
     "variations": [
       "instruction",
       "instructions",
-      "instructional",
-      "instruct"
+      "instruct",
+      "instructing"
     ],
-    "emoji": "📘👨‍🏫",
-    "id": "gl150"
+    "emoji": "📘👩‍🏫",
+    "id": "gl120"
   },
   "instrumentalism": {
     "word": "instrumentalism",
-    "definition": "another name for the idea that art should serve a useful purpose",
+    "definition": "another name for the idea that art should be useful and serve a purpose.",
     "variations": [
-      "instrumentalism"
+      "instrumentalist"
     ],
-    "emoji": "🔧💡",
-    "id": "gl151"
-  },
-  "integration": {
-    "word": "integration",
-    "definition": "the act of joining things together so they work as one",
-    "variations": [
-      "integration",
-      "integrated",
-      "integrate"
-    ],
-    "emoji": "🔗🤝",
-    "id": "gl152"
-  },
-  "intended": {
-    "word": "intended",
-    "definition": "planned for a particular use or purpose",
-    "variations": [
-      "intend",
-      "intends",
-      "intended",
-      "intending"
-    ],
-    "emoji": "🎯📝",
-    "id": "gl153"
-  },
-  "intended use": {
-    "word": "intended use",
-    "definition": "the purpose something is made for",
-    "variations": [
-      "intended use"
-    ],
-    "emoji": "🎯🛠️",
-    "id": "gl154"
-  },
-  "interacted": {
-    "word": "interacted",
-    "definition": "used or dealt with by touching, using, or responding to something",
-    "variations": [
-      "interact",
-      "interacts",
-      "interacted",
-      "interacting",
-      "interaction"
-    ],
-    "emoji": "🤝✋",
-    "id": "gl155"
+    "emoji": "🧰🎭",
+    "id": "gl121"
   },
   "interior decoration": {
     "word": "interior decoration",
-    "definition": "the art of making the inside of a room or building look attractive",
+    "definition": "the art of making the inside of a room or building look attractive.",
     "variations": [
-      "interior decoration",
-      "interior decorations",
-      "decorate",
-      "decorated",
-      "decoration"
+      "interior decoration"
     ],
     "emoji": "🏠🛋️",
-    "id": "gl156"
-  },
-  "interior design": {
-    "word": "interior design",
-    "definition": "the art of making inside spaces and household items look attractive and useful.",
-    "variations": [
-      "interior design"
-    ],
-    "emoji": "🏠🪑",
-    "id": "gl157"
-  },
-  "interpret": {
-    "word": "interpret",
-    "definition": "to explain the meaning of something",
-    "variations": [
-      "interpret",
-      "interprets",
-      "interpreted",
-      "interpreting",
-      "interpretation"
-    ],
-    "emoji": "💭📘",
-    "id": "gl158"
+    "id": "gl122"
   },
   "landscape": {
     "word": "landscape",
-    "definition": "A horizontal picture position, wider than it is tall.",
+    "definition": "a picture or view of outdoor scenery such as land, trees, roads, or hills",
     "variations": [
       "landscapes"
     ],
-    "emoji": "↔️🖼️",
-    "id": "gl159"
-  },
-  "landscape format": {
-    "word": "landscape format",
-    "definition": "a horizontal picture shape that is wider than it is tall.",
-    "variations": [
-      "landscape format",
-      "landscape painting format"
-    ],
-    "emoji": "🖼️↔️",
-    "id": "gl160"
+    "emoji": "🏞️🌳",
+    "id": "gl123"
   },
   "layer": {
     "word": "layer",
-    "definition": "one level of paint placed over another.",
+    "definition": "one coat of paint placed over another",
     "variations": [
       "layer",
       "layers"
     ],
     "emoji": "🧱🎨",
-    "id": "gl161"
+    "id": "gl124"
   },
-  "layering": {
-    "word": "layering",
-    "definition": "putting one colour, shape, or part over another",
+  "layered": {
+    "word": "layered",
+    "definition": "made with one part placed over another to create depth or a richer effect",
     "variations": [
+      "layered",
       "layer",
       "layers",
-      "layered",
       "layering"
     ],
     "emoji": "🧱🎨",
-    "id": "gl162"
+    "id": "gl125"
   },
   "leaflet": {
     "word": "leaflet",
-    "definition": "a small printed sheet used to give information or advertise something",
+    "definition": "a small printed paper used to give information or promote something.",
     "variations": [
-      "leaflet",
       "leaflets"
     ],
-    "emoji": "📃📢",
-    "id": "gl163"
+    "emoji": "📄📬",
+    "id": "gl126"
   },
   "light source": {
     "word": "light source",
-    "definition": "The place where light comes from in a drawing or painting.",
+    "definition": "the place where light comes from in a drawing or painting",
     "variations": [
+      "light source",
       "light sources"
     ],
     "emoji": "💡☀️",
-    "id": "gl164"
+    "id": "gl127"
   },
   "lighting": {
     "word": "lighting",
-    "definition": "the way light is used or falls on objects in an artwork",
+    "definition": "the use or direction of light in an artwork or scene.",
     "variations": [
       "lighting",
       "light"
     ],
-    "emoji": "💡🌞",
-    "id": "gl165"
+    "emoji": "💡🌗",
+    "id": "gl128"
+  },
+  "line": {
+    "word": "line",
+    "definition": "a mark that can be straight, curved, thick, or thin, used to create art.",
+    "variations": [
+      "line",
+      "lines"
+    ],
+    "emoji": "📏✏️",
+    "id": "gl129"
   },
   "linear perspective": {
     "word": "linear perspective",
@@ -1705,231 +1300,167 @@
     "variations": [
       "linear perspectives"
     ],
-    "emoji": "📏🎨",
-    "id": "gl166"
-  },
-  "literal imagery": {
-    "word": "literal imagery",
-    "definition": "pictures or images that show things exactly as they appear in real life",
-    "variations": [
-      "literal imagery"
-    ],
-    "emoji": "📷🖼️",
-    "id": "gl167"
-  },
-  "loudspeaker": {
-    "word": "loudspeaker",
-    "definition": "a device that makes sound louder so many people can hear it",
-    "variations": [
-      "loudspeaker",
-      "loudspeakers"
-    ],
-    "emoji": "📢🔊",
-    "id": "gl168"
+    "emoji": "📏🛣️",
+    "id": "gl130"
   },
   "manipulate": {
     "word": "manipulate",
-    "definition": "to move or change something carefully to get the effect you want",
+    "definition": "to move, shape, or control something by hand or with tools.",
     "variations": [
       "manipulate",
       "manipulates",
       "manipulated",
-      "manipulating"
+      "manipulating",
+      "manipulation"
     ],
-    "emoji": "✋🎨",
-    "id": "gl169"
+    "emoji": "✋🛠️",
+    "id": "gl131"
+  },
+  "manual": {
+    "word": "manual",
+    "definition": "a book that gives instructions or guidance on how to do something",
+    "variations": [
+      "manual",
+      "manuals"
+    ],
+    "emoji": "📖🛠️",
+    "id": "gl132"
   },
   "marker": {
     "word": "marker",
-    "definition": "a pen with strong ink used for drawing or writing bold lines.",
+    "definition": "a pen with a thick tip used for strong lines or colour",
     "variations": [
-      "marker",
       "markers"
     ],
-    "emoji": "🖊️✍️",
-    "id": "gl170"
+    "emoji": "🖊️🖍️",
+    "id": "gl133"
   },
   "masking": {
     "word": "masking",
-    "definition": "covering part of a surface so ink or paint does not reach it",
+    "definition": "covering part of a surface so ink or paint does not go there.",
     "variations": [
       "masking",
       "mask",
       "masks",
       "masked"
     ],
-    "emoji": "🎭🧩",
-    "id": "gl171"
+    "emoji": "🎭🚫",
+    "id": "gl134"
   },
   "masking tape": {
     "word": "masking tape",
-    "definition": "a tape used to cover or hold areas so paint or ink does not go where it is not wanted.",
+    "definition": "a removable tape used to cover or protect areas during painting or printing",
     "variations": [
       "masking tape",
       "masking tapes"
     ],
-    "emoji": "📏🩹",
-    "id": "gl172"
-  },
-  "mass communication": {
-    "word": "mass communication",
-    "definition": "sending information to many people at the same time",
-    "variations": [
-      "mass communication"
-    ],
-    "emoji": "📢👥",
-    "id": "gl173"
+    "emoji": "🩹📏",
+    "id": "gl135"
   },
   "measuring tool": {
     "word": "measuring tool",
-    "definition": "A tool used to compare sizes and help draw objects correctly.",
+    "definition": "an object used to compare sizes when drawing, such as a pencil, stick, or ruler",
     "variations": [
+      "measuring tool",
       "measuring tools"
     ],
     "emoji": "📏✏️",
-    "id": "gl174"
+    "id": "gl136"
   },
   "medium": {
     "word": "medium",
-    "definition": "the material an artist uses to create art, such as paint, charcoal, or ink.",
+    "definition": "the material an artist uses to create art, such as paint",
     "variations": [
       "medium",
-      "mediums"
+      "mediums",
+      "media"
     ],
-    "emoji": "🎨🧴",
-    "id": "gl175"
-  },
-  "memory": {
-    "word": "memory",
-    "definition": "the ability to remember what something looks like and use that idea in drawing or painting.",
-    "variations": [
-      "memory",
-      "memories"
-    ],
-    "emoji": "🧠👀",
-    "id": "gl176"
+    "emoji": "🖌️🎨",
+    "id": "gl137"
   },
   "mesh": {
     "word": "mesh",
-    "definition": "a material made of many small holes, often used in printing screens",
+    "definition": "a material made of many small holes or openings, used in screen printing to let ink pass through",
     "variations": [
       "mesh",
       "meshes"
     ],
     "emoji": "🕸️🖼️",
-    "id": "gl177"
-  },
-  "mesh screen": {
-    "word": "mesh screen",
-    "definition": "a screen made of tiny holes that lets ink pass through in screen printing.",
-    "variations": [
-      "mesh screen",
-      "mesh screens",
-      "mesh"
-    ],
-    "emoji": "🕸️🖨️",
-    "id": "gl178"
+    "id": "gl138"
   },
   "misinterpretation": {
     "word": "misinterpretation",
     "definition": "a wrong understanding of something",
     "variations": [
-      "misinterpretation",
-      "misinterpretations",
-      "misinterpret"
+      "misinterpret",
+      "misinterpreted",
+      "misinterpreting"
     ],
-    "emoji": "❌🤔",
-    "id": "gl179"
+    "emoji": "❓⚠️",
+    "id": "gl139"
   },
   "mod podge": {
     "word": "mod podge",
-    "definition": "a craft material that works as a glue, sealer, and finish.",
+    "definition": "a craft material used as a glue, sealer, and finish",
     "variations": [
       "mod podge"
     ],
-    "emoji": "🧴🪄",
-    "id": "gl180"
-  },
-  "modernity": {
-    "word": "modernity",
-    "definition": "the condition or idea of being modern or connected to modern times",
-    "variations": [
-      "modernity",
-      "modern"
-    ],
-    "emoji": "🏙️🕒",
-    "id": "gl181"
+    "emoji": "🧴🛠️",
+    "id": "gl140"
   },
   "monoprint": {
     "word": "monoprint",
-    "definition": "a print made as a single unique image, so no two prints are exactly the same.",
+    "definition": "a print made as one unique image, so no two prints are exactly the same.",
     "variations": [
       "monoprint",
-      "monoprints"
+      "monoprints",
+      "monoprinting"
     ],
     "emoji": "🖨️🎨",
-    "id": "gl182"
+    "id": "gl141"
   },
   "monotype": {
     "word": "monotype",
-    "definition": "a kind of printmaking that usually produces only one print from a plate",
+    "definition": "a print made from a smooth surface that usually produces only one strong impression.",
     "variations": [
       "monotype",
       "monotypes"
     ],
     "emoji": "🎨1️⃣",
-    "id": "gl183"
+    "id": "gl142"
   },
   "motif": {
     "word": "motif",
-    "definition": "a repeated design, shape, or symbol used in artwork.",
+    "definition": "a repeated symbol, shape, or design used in artwork.",
     "variations": [
       "motif",
       "motifs"
     ],
-    "emoji": "🔷🎨",
-    "id": "gl184"
+    "emoji": "🔁🎨",
+    "id": "gl143"
   },
-  "narrative content": {
-    "word": "narrative content",
-    "definition": "the story or event shown or suggested in an artwork",
+  "narrative": {
+    "word": "narrative",
+    "definition": "the story or message shown or told by an artwork.",
     "variations": [
-      "narrative content"
+      "narrative",
+      "narratives"
     ],
     "emoji": "📖🖼️",
-    "id": "gl185"
+    "id": "gl144"
   },
   "non-porous": {
     "word": "non-porous",
-    "definition": "not able to absorb liquid because it has no tiny holes",
+    "definition": "not able to absorb liquid because the surface has no tiny holes.",
     "variations": [
       "non-porous"
     ],
-    "emoji": "🚫💧⬛",
-    "id": "gl186"
-  },
-  "objective analysis": {
-    "word": "objective analysis",
-    "definition": "judging something based on facts and visible features, not personal feelings",
-    "variations": [
-      "objective analysis"
-    ],
-    "emoji": "🔍📊",
-    "id": "gl187"
-  },
-  "objectively": {
-    "word": "objectively",
-    "definition": "in a way that is based on facts and observation, not personal feelings",
-    "variations": [
-      "objective",
-      "objectively"
-    ],
-    "emoji": "👓📏",
-    "id": "gl188"
+    "emoji": "💧🚫",
+    "id": "gl145"
   },
   "observation": {
     "word": "observation",
-    "definition": "careful looking in order to notice details",
+    "definition": "careful watching in order to notice details.",
     "variations": [
       "observation",
       "observe",
@@ -1937,57 +1468,84 @@
       "observing"
     ],
     "emoji": "👀🔎",
-    "id": "gl189"
+    "id": "gl146"
+  },
+  "observational angle": {
+    "word": "observational angle",
+    "definition": "the direction or position from which you look at an object while drawing or painting it",
+    "variations": [
+      "observational angle",
+      "observational angles"
+    ],
+    "emoji": "👀📐",
+    "id": "gl147"
+  },
+  "observational angles": {
+    "word": "observational angles",
+    "definition": "different positions or directions from which a person looks at an object",
+    "variations": [
+      "observational angle"
+    ],
+    "emoji": "👀↗️↘️",
+    "id": "gl148"
   },
   "observer": {
     "word": "observer",
-    "definition": "the person who looks at something",
+    "definition": "the person who is looking at something",
     "variations": [
-      "observer",
-      "observers",
       "observe",
       "observed",
-      "observing"
+      "observing",
+      "observation"
     ],
     "emoji": "👀🧍",
-    "id": "gl190"
+    "id": "gl149"
+  },
+  "oil colour": {
+    "word": "oil colour",
+    "definition": "a type of paint made with oil, often thicker and easier to adjust than watercolour",
+    "variations": [
+      "oil colour",
+      "oil colours"
+    ],
+    "emoji": "🖌️🎨",
+    "id": "gl150"
+  },
+  "one-of-a-kind": {
+    "word": "one-of-a-kind",
+    "definition": "special and unique because there is only one like it.",
+    "variations": [
+      "one-of-a-kind"
+    ],
+    "emoji": "🌟1️⃣",
+    "id": "gl151"
   },
   "one-point linear perspective": {
     "word": "one-point linear perspective",
-    "definition": "a perspective method that uses one vanishing point",
-    "variations": [
-      "one-point linear perspective",
-      "one-point perspective"
-    ],
-    "emoji": "1️⃣📏",
-    "id": "gl191"
-  },
-  "organic": {
-    "word": "organic",
-    "definition": "natural in appearance or coming from living things",
-    "variations": [
-      "organic"
-    ],
-    "emoji": "🌿🍃",
-    "id": "gl192"
+    "definition": "a type of linear perspective where lines move toward one vanishing point",
+    "variations": [],
+    "emoji": "1️⃣📍📏",
+    "id": "gl152"
   },
   "orientation": {
     "word": "orientation",
-    "definition": "The direction or position of a paper or picture, such as horizontal or vertical.",
+    "definition": "the direction or position of a paper or artwork, such as landscape or portrait",
     "variations": [
+      "orientation",
       "orientations"
     ],
     "emoji": "📄↔️↕️",
-    "id": "gl193"
+    "id": "gl153"
   },
   "ornamental": {
     "word": "ornamental",
-    "definition": "used mainly for decoration",
+    "definition": "used mainly for decoration rather than practical use.",
     "variations": [
-      "ornamental"
+      "ornament",
+      "ornaments"
     ],
-    "emoji": "🌼✨",
-    "id": "gl194"
+    "emoji": "🌟🏺",
+    "id": "gl154"
   },
   "orthogonal line": {
     "word": "orthogonal line",
@@ -1996,105 +1554,114 @@
       "orthogonal line",
       "orthogonal lines"
     ],
-    "emoji": "📏➡️",
-    "id": "gl195"
+    "emoji": "📐➡️",
+    "id": "gl155"
   },
   "orthogonal lines": {
     "word": "orthogonal lines",
-    "definition": "guiding lines in perspective drawing that move toward a vanishing point",
+    "definition": "guide lines that go back toward the vanishing point to help show perspective",
     "variations": [
       "orthogonal line",
       "orthogonals"
     ],
-    "emoji": "📐➡️",
-    "id": "gl196"
+    "emoji": "📐📏",
+    "id": "gl156"
   },
   "outline": {
     "word": "outline",
-    "definition": "the clear outer line or edge of a shape or drawing.",
+    "definition": "the outside edge or main shape of a drawing or design",
     "variations": [
       "outline",
       "outlines",
       "outlined"
     ],
     "emoji": "✏️📐",
-    "id": "gl197"
+    "id": "gl157"
   },
   "overlap": {
     "word": "overlap",
-    "definition": "to place one object partly over another so that one hides part of the other",
+    "definition": "when one object covers part of another object to show that one is in front",
     "variations": [
       "overlap",
       "overlaps",
       "overlapping"
     ],
     "emoji": "🔲📚",
-    "id": "gl198"
+    "id": "gl158"
   },
   "overlapping": {
     "word": "overlapping",
-    "definition": "covering part of one object with another to show depth or arrangement",
+    "definition": "covering part of one object with another to show depth or arrangement.",
     "variations": [
       "overlapping",
       "overlap",
       "overlapped"
     ],
-    "emoji": "🔲🔳",
-    "id": "gl199"
+    "emoji": "🔲🖼️",
+    "id": "gl159"
   },
   "packaging": {
     "word": "packaging",
-    "definition": "the covering or container used to hold and present a product.",
+    "definition": "materials or design used to wrap, cover, or present a product.",
     "variations": [
       "packaging",
       "package",
       "packages"
     ],
     "emoji": "📦🎁",
-    "id": "gl200"
+    "id": "gl160"
   },
   "painting": {
     "word": "painting",
-    "definition": "Artwork made by putting color onto a surface such as paper or canvas.",
+    "definition": "the art of making pictures using paint",
     "variations": [
+      "painting",
       "paintings",
-      "paint",
-      "painted",
-      "painting"
+      "paint"
     ],
     "emoji": "🖌️🎨",
-    "id": "gl201"
+    "id": "gl161"
   },
   "palette": {
     "word": "palette",
-    "definition": "a flat surface or board where an artist puts and mixes paint.",
+    "definition": "a flat surface or board used for holding and mixing paint.",
     "variations": [
       "palette",
       "palettes"
     ],
-    "emoji": "🎨🖌️",
-    "id": "gl202"
+    "emoji": "🎨🟫",
+    "id": "gl162"
   },
   "palette knife": {
     "word": "palette knife",
-    "definition": "a flat tool used to spread, scrape, or shape paint or ink",
+    "definition": "a thin flat tool used to spread, scrape, or shape paint or ink.",
     "variations": [
       "palette knife",
       "palette knives"
     ],
     "emoji": "🔪🎨",
-    "id": "gl203"
+    "id": "gl163"
   },
   "panorama": {
     "word": "panorama",
-    "definition": "a very wide view or picture format showing a large scene.",
+    "definition": "a very wide view or picture",
     "variations": [
       "panorama",
       "panoramas",
       "panoramic"
     ],
-    "emoji": "🌄👀",
-    "id": "gl204"
+    "emoji": "🌄↔️",
+    "id": "gl164"
+  },
+  "paperboard": {
+    "word": "paperboard",
+    "definition": "thick, stiff paper used for boxes, covers, and packaging.",
+    "variations": [
+      "paperboard",
+      "paperboards"
+    ],
+    "emoji": "📦📄",
+    "id": "gl165"
   },
   "parallel lines": {
     "word": "parallel lines",
@@ -2103,50 +1670,41 @@
       "parallel line"
     ],
     "emoji": "📏↔️",
-    "id": "gl205"
+    "id": "gl166"
   },
-  "pastels": {
-    "word": "pastels",
-    "definition": "soft coloured drawing sticks used to make art",
+  "pastel": {
+    "word": "pastel",
+    "definition": "a coloured drawing stick that makes soft marks",
     "variations": [
-      "pastel",
-      "pastels"
+      "pastels",
+      "oil pastel",
+      "oil pastels"
     ],
     "emoji": "🖍️🌈",
-    "id": "gl206"
+    "id": "gl167"
   },
   "pattern": {
     "word": "pattern",
-    "definition": "a design in which shapes, lines, or colours are repeated.",
+    "definition": "a repeated design, shape, or arrangement in art.",
     "variations": [
       "pattern",
       "patterns"
     ],
-    "emoji": "🔁🎨",
-    "id": "gl207"
-  },
-  "perceptual": {
-    "word": "perceptual",
-    "definition": "related to noticing, understanding, or interpreting things through the senses",
-    "variations": [
-      "perceptual",
-      "perception"
-    ],
-    "emoji": "👀🧠",
-    "id": "gl208"
+    "emoji": "🔷🎨",
+    "id": "gl168"
   },
   "permanent": {
     "word": "permanent",
-    "definition": "lasting for a long time and not easy to remove.",
+    "definition": "lasting for a long time and not easy to remove",
     "variations": [
       "permanent"
     ],
-    "emoji": "📌⏳",
-    "id": "gl209"
+    "emoji": "🔒🖼️",
+    "id": "gl169"
   },
   "personalized": {
     "word": "personalized",
-    "definition": "made specially for one person, group, or purpose",
+    "definition": "made specially for one person, purpose, or situation.",
     "variations": [
       "personalized",
       "personalize",
@@ -2155,1078 +1713,881 @@
       "personalization"
     ],
     "emoji": "✨👤",
-    "id": "gl210"
+    "id": "gl170"
   },
   "perspective": {
     "word": "perspective",
-    "definition": "a way of thinking about or understanding something",
+    "definition": "a way of drawing objects so they look real, showing distance, depth, and space on a flat surface",
     "variations": [
-      "perspective",
       "perspectives"
     ],
-    "emoji": "👀🧠",
-    "id": "gl211"
+    "emoji": "🎨👀",
+    "id": "gl171"
   },
-  "Perspex": {
-    "word": "Perspex",
-    "definition": "a clear plastic sheet often used instead of glass",
+  "perspex": {
+    "word": "perspex",
+    "definition": "a strong clear plastic that can be used instead of glass",
     "variations": [
-      "Perspex"
+      "perspex"
     ],
-    "emoji": "🪟🧴",
-    "id": "gl212"
-  },
-  "pictorial": {
-    "word": "pictorial",
-    "definition": "related to pictures or shown in picture form",
-    "variations": [],
-    "emoji": "🖼️🎨",
-    "id": "gl213"
+    "emoji": "🪟🔍",
+    "id": "gl172"
   },
   "pigment": {
     "word": "pigment",
-    "definition": "a coloured substance used to make paint",
+    "definition": "a coloured material used to make paint",
     "variations": [
       "pigment",
       "pigments"
     ],
-    "emoji": "🎨🧪",
-    "id": "gl214"
+    "emoji": "🖌️🎨",
+    "id": "gl173"
   },
-  "plastisol": {
-    "word": "plastisol",
-    "definition": "a type of printing ink often used in screen printing on fabric",
+  "placement": {
+    "word": "placement",
+    "definition": "the position of an object on the drawing or painting surface",
     "variations": [
-      "plastisol"
+      "placement",
+      "placements"
     ],
-    "emoji": "🖨️🧴",
-    "id": "gl215"
-  },
-  "plate": {
-    "word": "plate",
-    "definition": "a flat surface used to hold paint or ink for making a print.",
-    "variations": [
-      "plate",
-      "plates"
-    ],
-    "emoji": "🖨️🎨",
-    "id": "gl216"
+    "emoji": "📍🖼️",
+    "id": "gl174"
   },
   "Plexiglas": {
     "word": "Plexiglas",
-    "definition": "a strong clear plastic used as a smooth printing surface",
+    "definition": "a strong clear plastic material used as a smooth printing surface.",
     "variations": [
       "Plexiglas"
     ],
-    "emoji": "🪟🧴",
-    "id": "gl217"
-  },
-  "polymer emulsion": {
-    "word": "polymer emulsion",
-    "definition": "a liquid mixture of tiny plastic-like particles that helps form acrylic paint.",
-    "variations": [
-      "polymer emulsion",
-      "polymer emulsions"
-    ],
-    "emoji": "🧪🎨",
-    "id": "gl218"
+    "emoji": "🪟⬛",
+    "id": "gl175"
   },
   "portrait": {
     "word": "portrait",
-    "definition": "A vertical picture position, taller than it is wide.",
+    "definition": "a vertical picture format, or a picture of a person",
     "variations": [
+      "portrait",
       "portraits"
     ],
-    "emoji": "↕️🖼️",
-    "id": "gl219"
+    "emoji": "🧍↕️",
+    "id": "gl176"
   },
-  "positioning": {
-    "word": "positioning",
-    "definition": "the way something is placed or arranged in a drawing or space",
+  "poster": {
+    "word": "poster",
+    "definition": "a large printed notice or picture used to share information or advertise something",
     "variations": [
-      "position",
-      "positions",
-      "positioning",
-      "positioned"
+      "poster",
+      "posters"
     ],
-    "emoji": "📍🧭",
-    "id": "gl220"
+    "emoji": "📜📢",
+    "id": "gl177"
   },
   "practicability": {
     "word": "practicability",
-    "definition": "how possible or useful something is in real life",
+    "definition": "the possibility of doing or making something in real life",
     "variations": [
-      "practicability",
       "practical",
       "practicality"
     ],
-    "emoji": "✅🌍",
-    "id": "gl221"
+    "emoji": "✅🏗️",
+    "id": "gl178"
   },
   "practicality": {
     "word": "practicality",
-    "definition": "the quality of being useful in real life",
+    "definition": "the quality of being useful and suitable in real life",
     "variations": [
       "practicality",
       "practical"
     ],
-    "emoji": "🛠️✅",
-    "id": "gl222"
+    "emoji": "🛠️👍",
+    "id": "gl179"
   },
   "precise": {
     "word": "precise",
-    "definition": "very clear, exact, and correct",
+    "definition": "very exact and clear",
     "variations": [
-      "precise",
       "precisely",
       "precision"
     ],
     "emoji": "🎯📏",
-    "id": "gl223"
+    "id": "gl180"
   },
   "preliminary sketch": {
     "word": "preliminary sketch",
-    "definition": "An early drawing made before the final artwork.",
+    "definition": "an early drawing made before the final artwork",
     "variations": [
+      "preliminary sketch",
       "preliminary sketches"
     ],
     "emoji": "✏️📝",
-    "id": "gl224"
+    "id": "gl181"
   },
   "primary colours": {
     "word": "primary colours",
-    "definition": "basic colours that can be mixed to make other colours",
+    "definition": "basic colours that can be mixed to make many other colours. They are red, blue, and yellow.",
     "variations": [
-      "primary colour",
-      "primary colours"
+      "primary colour"
     ],
-    "emoji": "🔴🟡🔵",
-    "id": "gl225"
+    "emoji": "🔴🔵🟡",
+    "id": "gl182"
   },
   "principle": {
     "word": "principle",
-    "definition": "a basic rule or idea that guides how something is done or understood",
+    "definition": "a basic rule or idea that guides how something is done",
     "variations": [
       "principle",
       "principles"
     ],
-    "emoji": "📏💡",
-    "id": "gl226"
+    "emoji": "📘✅",
+    "id": "gl183"
   },
   "principles of design": {
     "word": "principles of design",
-    "definition": "important rules or ideas used to organise an artwork well",
+    "definition": "rules or ideas used to organise visual elements well in an artwork.",
     "variations": [
-      "principle of design",
-      "principles of design"
+      "principle of design"
     ],
     "emoji": "📐🎨",
-    "id": "gl227"
+    "id": "gl184"
+  },
+  "printing plate": {
+    "word": "printing plate",
+    "definition": "a flat surface used to hold ink and transfer a design onto paper, fabric, or another material.",
+    "variations": [
+      "printing plate",
+      "printing plates",
+      "plate",
+      "plates"
+    ],
+    "emoji": "⬜🎨",
+    "id": "gl185"
   },
   "printing surface": {
     "word": "printing surface",
-    "definition": "the flat material or area where a design is printed, such as paper or fabric.",
+    "definition": "the flat material or area where a design is printed, such as paper, fabric, or canvas",
     "variations": [
       "printing surface",
       "printing surfaces"
     ],
     "emoji": "📄🧵",
-    "id": "gl228"
+    "id": "gl186"
+  },
+  "printing technique": {
+    "word": "printing technique",
+    "definition": "a method used to make and transfer a printed image onto a surface.",
+    "variations": [
+      "printing technique",
+      "printing techniques"
+    ],
+    "emoji": "🖨️🛠️",
+    "id": "gl187"
   },
   "printmaking": {
     "word": "printmaking",
-    "definition": "the process of creating pictures by transferring ink or paint from one surface to another.",
+    "definition": "the art of creating pictures by making prints from a surface onto another material.",
     "variations": [
       "printmaking"
     ],
     "emoji": "🖨️🖼️",
-    "id": "gl229"
+    "id": "gl188"
   },
-  "projecting": {
-    "word": "projecting",
-    "definition": "showing an idea or object clearly in drawing so it can be developed into a real thing",
+  "problem solving": {
+    "word": "problem solving",
+    "definition": "the process of finding answers to difficulties or challenges",
     "variations": [
-      "project",
-      "projects",
-      "projecting",
-      "projected"
+      "problem-solving"
     ],
-    "emoji": "📝➡️",
-    "id": "gl230"
-  },
-  "promotional": {
-    "word": "promotional",
-    "definition": "made to advertise or support something",
-    "variations": [
-      "promotional",
-      "promotion",
-      "promote"
-    ],
-    "emoji": "📢✨",
-    "id": "gl231"
+    "emoji": "🧠🛠️",
+    "id": "gl189"
   },
   "promotional materials": {
     "word": "promotional materials",
-    "definition": "items used to advertise or make people interested in a business or product.",
+    "definition": "items used to advertise or draw attention to a business, product, or event.",
     "variations": [
       "promotional material",
       "promotional materials"
     ],
-    "emoji": "📢📰",
-    "id": "gl232"
+    "emoji": "📣🪧",
+    "id": "gl190"
   },
   "proportion": {
     "word": "proportion",
-    "definition": "the size relationship between parts of an artwork or object",
+    "definition": "the size relationship between parts of an artwork or object.",
     "variations": [
       "proportion",
       "proportions",
       "proportional"
     ],
-    "emoji": "📏📐",
-    "id": "gl233"
-  },
-  "public display": {
-    "word": "public display",
-    "definition": "showing something in a place where many people can see it",
-    "variations": [
-      "public display"
-    ],
-    "emoji": "🏫🖼️",
-    "id": "gl234"
+    "emoji": "📐⚖️",
+    "id": "gl191"
   },
   "readability": {
     "word": "readability",
-    "definition": "how easy it is to read written words",
+    "definition": "how easy it is to read and understand written words.",
     "variations": [
-      "readability",
       "readable"
     ],
-    "emoji": "📄👀",
-    "id": "gl235"
+    "emoji": "📖👀",
+    "id": "gl192"
   },
   "realism": {
     "word": "realism",
-    "definition": "showing things in a way that looks real and natural",
+    "definition": "showing things in art so they look like they do in real life",
     "variations": [
-      "realism",
-      "realistic"
+      "realistic",
+      "realistically"
     ],
-    "emoji": "👁️🎨",
-    "id": "gl236"
+    "emoji": "🖼️✨",
+    "id": "gl193"
   },
   "realistic": {
     "word": "realistic",
-    "definition": "Looking like real life.",
+    "definition": "looking close to real life",
     "variations": [
-      "realism",
-      "realistically"
+      "realistic",
+      "realistically",
+      "realism"
     ],
-    "emoji": "👁️🎨",
-    "id": "gl237"
+    "emoji": "👁️🖼️",
+    "id": "gl194"
   },
   "reductive": {
     "word": "reductive",
-    "definition": "in art, made by reducing or taking away part of the material",
+    "definition": "another word for subtractive; made by removing parts of the inked surface.",
     "variations": [
       "reductive"
     ],
     "emoji": "✂️➖",
-    "id": "gl238"
+    "id": "gl195"
   },
   "refine": {
     "word": "refine",
-    "definition": "to improve something by making small changes",
+    "definition": "to improve something by making small changes.",
     "variations": [
       "refine",
       "refines",
       "refined",
       "refining"
     ],
-    "emoji": "🔧✨",
-    "id": "gl239"
-  },
-  "refinement": {
-    "word": "refinement",
-    "definition": "the final improvement of an artwork to make it better",
-    "variations": [
-      "refinement",
-      "refine",
-      "refined"
-    ],
-    "emoji": "🛠️🎨",
-    "id": "gl240"
+    "emoji": "✨🛠️",
+    "id": "gl196"
   },
   "reflection": {
     "word": "reflection",
-    "definition": "Light that bounces from one surface onto another.",
+    "definition": "light that bounces from one surface onto another",
     "variations": [
-      "reflections",
-      "reflect",
-      "reflected"
+      "reflection",
+      "reflections"
     ],
-    "emoji": "✨🪞",
-    "id": "gl241"
+    "emoji": "💡🔁",
+    "id": "gl197"
   },
-  "rendering": {
-    "word": "rendering",
-    "definition": "The act of showing something in art with shape, light, and detail.",
+  "representation": {
+    "word": "representation",
+    "definition": "a picture, image, or form that shows something",
     "variations": [
-      "render",
-      "renders",
-      "rendered"
+      "representation",
+      "representations"
     ],
-    "emoji": "🎨🛠️",
-    "id": "gl242"
+    "emoji": "🖼️👁️",
+    "id": "gl198"
   },
   "representational": {
     "word": "representational",
-    "definition": "showing real people, objects, or scenes in a recognizable way",
+    "definition": "showing people or things in a way that looks like real life.",
     "variations": [
       "representational",
       "non-representational"
     ],
-    "emoji": "🖼️👁️",
-    "id": "gl243"
+    "emoji": "🧍🌍",
+    "id": "gl199"
   },
   "representational drawing": {
     "word": "representational drawing",
-    "definition": "a drawing that shows objects as they appear in real life",
+    "definition": "a drawing that shows real objects in a recognizable way",
     "variations": [
-      "representational drawing",
-      "representational drawings",
-      "representational"
+      "representational drawings"
     ],
-    "emoji": "🖼️🌍",
-    "id": "gl244"
+    "emoji": "🖼️👁️",
+    "id": "gl200"
   },
-  "reusable": {
-    "word": "reusable",
-    "definition": "able to be used again many times.",
+  "research": {
+    "word": "research",
+    "definition": "careful study to learn facts or get information",
     "variations": [
-      "reusable",
-      "reuse",
-      "reused"
+      "researcher",
+      "researching",
+      "researched"
     ],
-    "emoji": "♻️🔁",
-    "id": "gl245"
+    "emoji": "🔎📚",
+    "id": "gl201"
   },
   "rhythm": {
     "word": "rhythm",
-    "definition": "a repeated pattern in art that creates a sense of movement",
+    "definition": "a repeated visual pattern in art that creates movement or flow.",
     "variations": [
       "rhythm",
-      "rhythmic"
+      "rhythms"
     ],
-    "emoji": "🔁🎵",
-    "id": "gl246"
-  },
-  "rhythmic pattern": {
-    "word": "rhythmic pattern",
-    "definition": "a repeated arrangement in art that creates a feeling of movement or beat",
-    "variations": [
-      "rhythmic pattern",
-      "rhythmic patterns"
-    ],
-    "emoji": "🔁🎵",
-    "id": "gl247"
-  },
-  "ritual": {
-    "word": "ritual",
-    "definition": "a set of actions done in a traditional or religious way",
-    "variations": [
-      "ritual",
-      "rituals"
-    ],
-    "emoji": "🕯️🙏",
-    "id": "gl248"
+    "emoji": "🔁🎨",
+    "id": "gl202"
   },
   "roller": {
     "word": "roller",
-    "definition": "a tool that spreads ink or paint smoothly over a surface.",
+    "definition": "a tool that spreads ink or paint evenly over a surface",
     "variations": [
       "roller",
       "rollers"
     ],
-    "emoji": "🛞🎨",
-    "id": "gl249"
+    "emoji": "🌀🎨",
+    "id": "gl203"
   },
   "rule of thirds": {
     "word": "rule of thirds",
-    "definition": "a way of arranging an artwork by dividing it into three equal parts to create a pleasing design",
+    "definition": "a composition guide that divides an image into three equal parts to help place important elements in pleasing positions.",
     "variations": [
       "rule of thirds"
     ],
-    "emoji": "📏🖼️",
-    "id": "gl250"
+    "emoji": "📐🖼️",
+    "id": "gl204"
   },
-  "screen ink": {
-    "word": "screen ink",
-    "definition": "special ink used for printing designs through a screen.",
+  "screen printing": {
+    "word": "screen printing",
+    "definition": "a printing method where ink is pushed through a mesh screen onto a surface",
     "variations": [
-      "screen ink",
-      "screen inks",
-      "ink",
-      "inks"
+      "screen printing",
+      "screen-printing",
+      "screen print",
+      "screen prints"
     ],
-    "emoji": "🖨️🎨",
-    "id": "gl251"
+    "emoji": "🖨️🧵",
+    "id": "gl205"
   },
   "sculpture": {
     "word": "sculpture",
-    "definition": "art made by shaping materials like stone, wood, clay, or metal into forms",
+    "definition": "the art of making solid forms or statues by carving, shaping, or joining materials",
     "variations": [
       "sculpture",
-      "sculptures",
-      "sculptural"
+      "sculptures"
     ],
     "emoji": "🗿🎨",
-    "id": "gl252"
+    "id": "gl206"
   },
   "secondary colours": {
     "word": "secondary colours",
-    "definition": "colours made by mixing two primary colours",
+    "definition": "colours made by mixing two primary colours.",
     "variations": [
-      "secondary colour",
-      "secondary colours"
+      "secondary colour"
     ],
     "emoji": "🟠🟢🟣",
-    "id": "gl253"
-  },
-  "selectively": {
-    "word": "selectively",
-    "definition": "in a careful way that chooses only certain parts",
-    "variations": [
-      "selective",
-      "selectively",
-      "select"
-    ],
-    "emoji": "✅🎯",
-    "id": "gl254"
+    "id": "gl207"
   },
   "shade": {
     "word": "shade",
-    "definition": "the darker area made when light does not fully reach a surface",
+    "definition": "the dark or light areas added to a drawing to make it look more solid and real",
     "variations": [
-      "shade",
       "shades",
-      "shading"
+      "shading",
+      "shaded"
     ],
     "emoji": "🌗✏️",
-    "id": "gl255"
+    "id": "gl208"
   },
   "shading": {
     "word": "shading",
-    "definition": "Adding light and dark areas to show shape, depth, and form.",
+    "definition": "the use of darker or lighter colour to show depth or form",
     "variations": [
-      "shade",
-      "shades",
-      "shaded"
+      "shading",
+      "shadings",
+      "shade"
     ],
-    "emoji": "⬜⬛✏️",
-    "id": "gl256"
+    "emoji": "🌗🎨",
+    "id": "gl209"
   },
   "shadow": {
     "word": "shadow",
-    "definition": "the dark area on or behind an object where light does not reach",
+    "definition": "the dark area made when light is blocked by an object",
     "variations": [
       "shadow",
-      "shadows",
-      "shadowing"
+      "shadows"
     ],
-    "emoji": "🌑☀️",
-    "id": "gl257"
+    "emoji": "🌒🕶️",
+    "id": "gl210"
+  },
+  "shape": {
+    "word": "shape",
+    "definition": "the outline or form of something in an artwork, such as a circle, square, or triangle.",
+    "variations": [
+      "shape",
+      "shapes"
+    ],
+    "emoji": "🔺⬛",
+    "id": "gl211"
   },
   "sight size technique": {
     "word": "sight size technique",
-    "definition": "A way of measuring by looking at an object and comparing its size directly with a pencil, ruler, or similar tool.",
+    "definition": "a method of measuring an object by comparing what you see with a pencil or another tool from a fixed position",
     "variations": [
-      "sight size",
-      "sight-size technique"
+      "sight size technique",
+      "sight size techniques",
+      "sight size"
     ],
-    "emoji": "✏️📐",
-    "id": "gl258"
+    "emoji": "✏️📐👀",
+    "id": "gl212"
   },
   "significance": {
     "word": "significance",
     "definition": "the importance or value of something",
     "variations": [
-      "significance",
       "significant"
     ],
     "emoji": "⭐📚",
-    "id": "gl259"
-  },
-  "simplicity": {
-    "word": "simplicity",
-    "definition": "the quality of being simple and not complicated",
-    "variations": [
-      "simplicity",
-      "simple"
-    ],
-    "emoji": "👌📏",
-    "id": "gl260"
-  },
-  "size and space variation": {
-    "word": "size and space variation",
-    "definition": "the change in how big objects look and how much space seems to be between them as they move nearer or farther away",
-    "variations": [
-      "size and space variation",
-      "size and space variations"
-    ],
-    "emoji": "📏↔️",
-    "id": "gl261"
+    "id": "gl213"
   },
   "sketch": {
     "word": "sketch",
-    "definition": "A quick, simple drawing used to plan or show the basic shape of something.",
+    "definition": "a simple quick drawing that plans the artwork",
     "variations": [
+      "sketch",
       "sketches",
-      "sketched",
       "sketching"
     ],
-    "emoji": "✏️📄",
-    "id": "gl262"
+    "emoji": "✏️🖼️",
+    "id": "gl214"
   },
   "smudging": {
     "word": "smudging",
-    "definition": "accidentally spreading ink or paint so the image becomes blurry",
+    "definition": "accidentally spreading ink or paint so the image becomes blurred or messy.",
     "variations": [
       "smudge",
       "smudges",
       "smudged",
       "smudging"
     ],
-    "emoji": "🫳🎨",
-    "id": "gl263"
+    "emoji": "🌫️✋",
+    "id": "gl215"
   },
   "social responsibility": {
     "word": "social responsibility",
-    "definition": "the duty to help society and act in ways that benefit other people",
+    "definition": "the duty to help society and act in ways that improve people’s lives.",
     "variations": [
-      "social responsibility"
+      "socially responsible"
     ],
     "emoji": "🤝🌍",
-    "id": "gl264"
+    "id": "gl216"
   },
-  "societal": {
-    "word": "societal",
-    "definition": "related to society or the community as a whole",
+  "socio-cultural": {
+    "word": "socio-cultural",
+    "definition": "connected to society and culture, including people’s values, habits, and traditions",
     "variations": [
-      "societal",
-      "society"
+      "socio-cultural",
+      "sociocultural"
     ],
-    "emoji": "👥🏘️",
-    "id": "gl265"
-  },
-  "sociology": {
-    "word": "sociology",
-    "definition": "the study of society and how people live and interact in groups",
-    "variations": [
-      "sociology",
-      "sociological"
-    ],
-    "emoji": "👥🌍",
-    "id": "gl266"
+    "emoji": "👥🏺",
+    "id": "gl217"
   },
   "soluble": {
     "word": "soluble",
-    "definition": "able to dissolve in a liquid.",
+    "definition": "able to dissolve in a liquid such as water",
     "variations": [
       "soluble"
     ],
     "emoji": "💧🧪",
-    "id": "gl267"
+    "id": "gl218"
   },
   "solvent": {
     "word": "solvent",
-    "definition": "a liquid used to dissolve or clean another substance.",
+    "definition": "a liquid used to dissolve or remove another substance",
     "variations": [
       "solvent",
       "solvents"
     ],
     "emoji": "🧴🧪",
-    "id": "gl268"
+    "id": "gl219"
   },
   "space": {
     "word": "space",
-    "definition": "The area around, between, or behind objects in an artwork.",
+    "definition": "the area around, between, above, or behind objects in an artwork",
     "variations": [
+      "space",
       "spaces"
     ],
-    "emoji": "🌌🖼️",
-    "id": "gl269"
+    "emoji": "🖼️↔️",
+    "id": "gl220"
+  },
+  "spiritual": {
+    "word": "spiritual",
+    "definition": "related to deep beliefs, the soul, or religious feeling.",
+    "variations": [
+      "spiritual",
+      "spiritually"
+    ],
+    "emoji": "🕊️✨",
+    "id": "gl221"
   },
   "squeegee": {
     "word": "squeegee",
-    "definition": "a flat tool used to push ink through a screen onto a surface.",
+    "definition": "a flat tool used to push ink through a screen during printing",
     "variations": [
       "squeegee",
       "squeegees"
     ],
-    "emoji": "🖨️⬇️",
-    "id": "gl270"
+    "emoji": "🪟🎨",
+    "id": "gl222"
+  },
+  "stamp": {
+    "word": "stamp",
+    "definition": "to press a shape or pattern onto a surface using ink or paint.",
+    "variations": [
+      "stamp",
+      "stamps",
+      "stamping",
+      "stamped"
+    ],
+    "emoji": "🧾🎨",
+    "id": "gl223"
   },
   "stationery": {
     "word": "stationery",
-    "definition": "writing and office materials such as paper, cards, and envelopes",
+    "definition": "paper items used for writing or office work, such as cards, notebooks, or diaries.",
     "variations": [
       "stationery"
     ],
-    "emoji": "✉️📝",
-    "id": "gl271"
+    "emoji": "📓✉️",
+    "id": "gl224"
   },
   "stencil": {
     "word": "stencil",
-    "definition": "a flat shape with cut-out parts used to make the same design many times",
+    "definition": "a thin sheet with cut-out shapes or patterns used to print the same design onto another surface",
     "variations": [
       "stencil",
       "stencils",
-      "stenciled",
       "stencilling",
       "stenciling"
     ],
-    "emoji": "🔲🎨",
-    "id": "gl272"
+    "emoji": "🧩🎨",
+    "id": "gl225"
   },
   "still life": {
     "word": "still life",
-    "definition": "a work of art that shows objects that do not move, such as fruits, flowers, or household items",
+    "definition": "an artwork that shows non-living objects such as fruits, bottles, or tools.",
     "variations": [
       "still life",
-      "still lifes",
-      "still-life"
+      "still lifes"
     ],
-    "emoji": "🍎🌸🖼️",
-    "id": "gl273"
+    "emoji": "🍎🫙🎨",
+    "id": "gl226"
   },
   "stippling": {
     "word": "stippling",
-    "definition": "making a picture or texture with many small dots",
+    "definition": "making a pattern or image with many small dots.",
     "variations": [
+      "stippling",
       "stipple",
-      "stipples",
-      "stippled",
-      "stippling"
+      "stippled"
     ],
-    "emoji": "•🎨",
-    "id": "gl274"
-  },
-  "storytelling": {
-    "word": "storytelling",
-    "definition": "the act of showing or telling a story",
-    "variations": [
-      "storytelling"
-    ],
-    "emoji": "📖🗣️",
-    "id": "gl275"
+    "emoji": "🔵🖊️",
+    "id": "gl227"
   },
   "stroke": {
     "word": "stroke",
-    "definition": "a line or mark made by moving a brush across a surface.",
+    "definition": "a line or mark made by a brush, pen, or pencil.",
     "variations": [
       "stroke",
       "strokes"
     ],
-    "emoji": "🖌️〰️",
-    "id": "gl276"
-  },
-  "structural composition": {
-    "word": "structural composition",
-    "definition": "the way parts of an artwork are arranged and organized",
-    "variations": [
-      "structural composition",
-      "structural compositions",
-      "composition",
-      "compositions"
-    ],
-    "emoji": "📐🖼️",
-    "id": "gl277"
+    "emoji": "🖌️➖",
+    "id": "gl228"
   },
   "structural elements": {
     "word": "structural elements",
-    "definition": "the organised parts that form the structure of an artwork",
+    "definition": "the basic parts and organisation that hold an artwork together.",
     "variations": [
-      "structural element",
-      "structural elements"
+      "structural element"
     ],
-    "emoji": "🏗️🖼️",
-    "id": "gl278"
-  },
-  "structure": {
-    "word": "structure",
-    "definition": "the way parts of something are arranged or built",
-    "variations": [
-      "structure",
-      "structures",
-      "structured"
-    ],
-    "emoji": "🏗️🧱",
-    "id": "gl279"
+    "emoji": "🏗️🧩",
+    "id": "gl229"
   },
   "subject": {
     "word": "subject",
-    "definition": "The main object or idea shown in an artwork.",
+    "definition": "the main object or idea shown in an artwork",
     "variations": [
+      "subject",
       "subjects"
     ],
     "emoji": "🎯🖼️",
-    "id": "gl280"
+    "id": "gl230"
   },
   "subject matter": {
     "word": "subject matter",
-    "definition": "the main idea, object, or scene shown in an artwork",
+    "definition": "the main idea, theme, or objects shown in an artwork.",
     "variations": [
       "subject matter"
     ],
-    "emoji": "🖼️📌",
-    "id": "gl281"
+    "emoji": "💡🎨",
+    "id": "gl231"
   },
   "subtractive": {
     "word": "subtractive",
-    "definition": "a printmaking method where ink is removed to create the image",
+    "definition": "a technique where ink or paint is removed to create an image.",
     "variations": [
-      "subtractive"
+      "subtractive",
+      "subtract"
     ],
-    "emoji": "➖🖨️",
-    "id": "gl282"
-  },
-  "surface": {
-    "word": "surface",
-    "definition": "the outer part or top layer of something that an artist can draw, paint, or print on.",
-    "variations": [
-      "surface",
-      "surfaces"
-    ],
-    "emoji": "🪵🖼️",
-    "id": "gl283"
+    "emoji": "➖🎨",
+    "id": "gl232"
   },
   "sustainable": {
     "word": "sustainable",
-    "definition": "made or used in a way that can last a long time and avoid waste",
+    "definition": "made or used in a way that lasts a long time and avoids waste",
     "variations": [
-      "sustainable",
       "sustainability",
-      "sustain"
+      "sustainably"
     ],
     "emoji": "🌱♻️",
-    "id": "gl284"
+    "id": "gl233"
   },
   "syllabus": {
     "word": "syllabus",
-    "definition": "a plan or outline of topics to be taught in a course",
+    "definition": "an outline of topics to be taught in a course",
     "variations": [
       "syllabus",
       "syllabuses",
       "syllabi"
     ],
-    "emoji": "📝📘",
-    "id": "gl285"
-  },
-  "symbol": {
-    "word": "symbol",
-    "definition": "a sign, shape, or object that stands for an idea or meaning.",
-    "variations": [
-      "symbol",
-      "symbols"
-    ],
-    "emoji": "🔣✨",
-    "id": "gl286"
+    "emoji": "📋📚",
+    "id": "gl234"
   },
   "symbolic": {
     "word": "symbolic",
-    "definition": "using signs, shapes, or images to represent deeper meanings",
+    "definition": "having a meaning that stands for something more than what is directly shown.",
     "variations": [
       "symbolic",
-      "symbolically",
-      "symbolism"
+      "symbolically"
     ],
-    "emoji": "🔣🎨",
-    "id": "gl287"
+    "emoji": "🕯️🔍",
+    "id": "gl235"
   },
   "symbolic art": {
     "word": "symbolic art",
-    "definition": "art that uses symbols, shapes, or colours to communicate meaning",
+    "definition": "art that uses signs, shapes, or colours to stand for ideas or meanings.",
     "variations": [
       "symbolic art",
-      "symbolic arts"
+      "symbolic arts",
+      "symbolic"
     ],
-    "emoji": "🔺🎨",
-    "id": "gl288"
+    "emoji": "🔣🎨",
+    "id": "gl236"
   },
   "symbolic still life": {
     "word": "symbolic still life",
-    "definition": "A type of still life that uses objects to suggest deeper or hidden meanings.",
+    "definition": "a type of still life that uses objects to suggest deeper, hidden, or spiritual meanings",
     "variations": [
+      "symbolic still life",
       "symbolic still lifes"
     ],
-    "emoji": "🔣🖼️",
-    "id": "gl289"
+    "emoji": "🔣🕊️",
+    "id": "gl237"
   },
   "symbolism": {
     "word": "symbolism",
-    "definition": "the use of objects, colours, or images to represent deeper ideas or meanings",
+    "definition": "the use of objects, colours, or images to represent deeper ideas or meanings.",
     "variations": [
       "symbolism",
-      "symbolic",
-      "symbol"
+      "symbolic"
     ],
     "emoji": "🔍🕊️",
-    "id": "gl290"
+    "id": "gl238"
   },
   "symmetry": {
     "word": "symmetry",
-    "definition": "a balanced arrangement where one side matches the other side",
+    "definition": "a balanced arrangement where one side matches the other side.",
     "variations": [
       "symmetry",
       "symmetrical"
     ],
-    "emoji": "🪞📏",
-    "id": "gl291"
+    "emoji": "🪞📐",
+    "id": "gl239"
   },
   "synthetic": {
     "word": "synthetic",
-    "definition": "made by people rather than coming naturally.",
+    "definition": "made by people rather than from natural material",
     "variations": [
       "synthetic"
     ],
-    "emoji": "🏭🧪",
-    "id": "gl292"
+    "emoji": "🧪🧵",
+    "id": "gl240"
   },
-  "synthetic bristle brushes": {
-    "word": "synthetic bristle brushes",
-    "definition": "paintbrushes made with man-made fibers instead of animal hair.",
+  "tangible": {
+    "word": "tangible",
+    "definition": "real and able to be seen or touched",
     "variations": [
-      "synthetic bristle brush",
-      "synthetic bristle brushes"
+      "tangible"
     ],
-    "emoji": "🖌️🧵",
-    "id": "gl293"
+    "emoji": "✋📦",
+    "id": "gl241"
   },
   "technique": {
     "word": "technique",
-    "definition": "a particular way of doing something, especially a skillful way in art or work",
+    "definition": "a particular way of doing an art activity",
     "variations": [
       "technique",
       "techniques"
     ],
-    "emoji": "🛠️🎭",
-    "id": "gl294"
-  },
-  "template": {
-    "word": "template",
-    "definition": "a pattern or guide used to help make a design or shape",
-    "variations": [
-      "template",
-      "templates"
-    ],
-    "emoji": "📐✏️",
-    "id": "gl295"
+    "emoji": "🎨🛠️",
+    "id": "gl242"
   },
   "tertiary colours": {
     "word": "tertiary colours",
-    "definition": "colours made by mixing a primary colour with a nearby secondary colour",
+    "definition": "colours made by mixing a primary colour with a nearby secondary colour.",
     "variations": [
-      "tertiary colour",
-      "tertiary colours"
+      "tertiary colour"
     ],
     "emoji": "🎨🌈",
-    "id": "gl296"
+    "id": "gl243"
   },
   "textile": {
     "word": "textile",
-    "definition": "a type of cloth or fabric, especially one made for use in clothing or other items",
+    "definition": "a material made by weaving or knitting fibers, such as cloth.",
     "variations": [
       "textile",
       "textiles"
     ],
-    "emoji": "🧵👕",
-    "id": "gl297"
+    "emoji": "🧶🪡",
+    "id": "gl244"
   },
   "texture": {
     "word": "texture",
-    "definition": "the surface quality of something, such as how rough or smooth it looks or feels",
+    "definition": "the way a surface feels or looks like it feels, such as rough or smooth.",
     "variations": [
       "texture",
       "textures"
     ],
-    "emoji": "✋🎨",
-    "id": "gl298"
-  },
-  "textures": {
-    "word": "textures",
-    "definition": "the way a surface looks or feels, such as smooth or rough",
-    "variations": [
-      "texture",
-      "textures"
-    ],
-    "emoji": "🪵✋",
-    "id": "gl299"
+    "emoji": "✋🪵",
+    "id": "gl245"
   },
   "theme": {
     "word": "theme",
-    "definition": "the main idea or message in an artwork.",
+    "definition": "the main idea or message shown in an artwork or design.",
     "variations": [
       "theme",
       "themes"
     ],
     "emoji": "💡🖼️",
-    "id": "gl300"
-  },
-  "theoretical approach": {
-    "word": "theoretical approach",
-    "definition": "a way of studying or understanding something using ideas or principles",
-    "variations": [
-      "theoretical approach",
-      "theoretical approaches"
-    ],
-    "emoji": "🧠📐",
-    "id": "gl301"
+    "id": "gl246"
   },
   "theory": {
     "word": "theory",
-    "definition": "a set of ideas used to explain how or why something happens",
+    "definition": "a set of ideas used to explain something",
     "variations": [
       "theory",
       "theories"
     ],
     "emoji": "💡📘",
-    "id": "gl302"
+    "id": "gl247"
+  },
+  "theory of art": {
+    "word": "theory of art",
+    "definition": "a set of ideas used to explain, judge, or understand works of art.",
+    "variations": [
+      "theory of art",
+      "theories of art"
+    ],
+    "emoji": "🎨💡",
+    "id": "gl248"
   },
   "three-dimensional": {
     "word": "three-dimensional",
-    "definition": "having height, width, and depth",
+    "definition": "having length, width, and depth.",
     "variations": [
       "three-dimensional",
-      "3-dimensional",
-      "three dimensions"
+      "3-dimensional"
     ],
     "emoji": "🧊📐",
-    "id": "gl303"
+    "id": "gl249"
   },
   "three-point linear perspective": {
     "word": "three-point linear perspective",
-    "definition": "a type of perspective drawing that uses three vanishing points to show height, depth, and space",
-    "variations": [
-      "three-point perspectives",
-      "three-point linear perspectives"
-    ],
-    "emoji": "3️⃣🏙️",
-    "id": "gl304"
+    "definition": "a type of linear perspective that uses three vanishing points to show strong depth and height",
+    "variations": [],
+    "emoji": "3️⃣🏙️📏",
+    "id": "gl250"
   },
   "thumbnail": {
     "word": "thumbnail",
-    "definition": "a small quick sketch used to plan an artwork",
+    "definition": "a small rough drawing used to plan an artwork before making the final version.",
     "variations": [
-      "thumbnail",
       "thumbnails"
     ],
-    "emoji": "✏️🗒️",
-    "id": "gl305"
-  },
-  "tonal value": {
-    "word": "tonal value",
-    "definition": "How light or dark a color or shade is.",
-    "variations": [
-      "tonal values",
-      "tone",
-      "tones"
-    ],
-    "emoji": "⬜⬛🎨",
-    "id": "gl306"
+    "emoji": "📏✏️",
+    "id": "gl251"
   },
   "tone": {
     "word": "tone",
-    "definition": "the lightness or darkness of a colour or drawing area",
+    "definition": "the level of lightness or darkness in a drawing or painting",
     "variations": [
       "tone",
       "tones",
       "tonal"
     ],
-    "emoji": "🎚️🖍️",
-    "id": "gl307"
+    "emoji": "🎼⚪⚫",
+    "id": "gl252"
   },
-  "transferred": {
-    "word": "transferred",
-    "definition": "moved from one surface to another, especially in printing.",
+  "transfer": {
+    "word": "transfer",
+    "definition": "to move a design or image from one surface onto another.",
     "variations": [
       "transfer",
+      "transfers",
       "transferred",
       "transferring"
     ],
-    "emoji": "↪️🖨️",
-    "id": "gl308"
+    "emoji": "↪️🖼️",
+    "id": "gl253"
   },
   "two-dimensional": {
     "word": "two-dimensional",
-    "definition": "having only height and width, with no depth",
+    "definition": "flat, having only height and width, not depth",
     "variations": [
-      "two-dimensional",
       "2-dimensional",
-      "two dimensions"
+      "two dimensional"
     ],
-    "emoji": "⬜📄",
-    "id": "gl309"
+    "emoji": "📄⬜",
+    "id": "gl254"
   },
   "two-point linear perspective": {
     "word": "two-point linear perspective",
-    "definition": "a perspective method that uses two vanishing points",
-    "variations": [
-      "two-point linear perspective",
-      "two-point perspective"
-    ],
-    "emoji": "2️⃣📐",
-    "id": "gl310"
-  },
-  "unique": {
-    "word": "unique",
-    "definition": "special because it is the only one of its kind.",
-    "variations": [
-      "unique",
-      "uniqueness"
-    ],
-    "emoji": "✨☝️",
-    "id": "gl311"
+    "definition": "a type of linear perspective where two sets of lines move toward two vanishing points",
+    "variations": [],
+    "emoji": "2️⃣📍📏",
+    "id": "gl255"
   },
   "unity": {
     "word": "unity",
-    "definition": "the quality of all parts of an artwork fitting together as one whole",
+    "definition": "the sense that all parts of an artwork belong together as one whole.",
     "variations": [
       "unity"
     ],
     "emoji": "🤝🖼️",
-    "id": "gl312"
-  },
-  "usability": {
-    "word": "usability",
-    "definition": "how easy and useful something is to use",
-    "variations": [
-      "usability",
-      "usable"
-    ],
-    "emoji": "👍🛠️",
-    "id": "gl313"
+    "id": "gl256"
   },
   "utilitarian": {
     "word": "utilitarian",
-    "definition": "made to be useful and practical",
+    "definition": "designed mainly to be useful in everyday life",
     "variations": [
       "utilitarian"
     ],
-    "emoji": "🔧📦",
-    "id": "gl314"
+    "emoji": "🧰🏠",
+    "id": "gl257"
   },
   "utility": {
     "word": "utility",
-    "definition": "the usefulness of something; how well it works for a purpose",
+    "definition": "the usefulness of something or the job it is made to do",
     "variations": [
-      "utility",
-      "utilities",
-      "useful",
-      "usefulness"
+      "utilitarian"
     ],
     "emoji": "🛠️✅",
-    "id": "gl315"
+    "id": "gl258"
   },
   "value": {
     "word": "value",
@@ -3235,221 +2596,184 @@
       "value",
       "values"
     ],
-    "emoji": "🌗🎨",
-    "id": "gl316"
+    "emoji": "🌗🖍️",
+    "id": "gl259"
   },
   "vanishing point": {
     "word": "vanishing point",
-    "definition": "the point in a perspective drawing where lines seem to meet in the distance",
+    "definition": "the point on the horizon line where lines seem to meet as they go farther away",
     "variations": [
-      "vanishing point",
       "vanishing points"
     ],
-    "emoji": "📍➡️",
-    "id": "gl317"
+    "emoji": "➡️📍",
+    "id": "gl260"
   },
   "variation": {
     "word": "variation",
-    "definition": "a small difference or change from one thing to another",
+    "definition": "a small difference or change from one thing to another.",
     "variations": [
       "variation",
       "variations",
       "vary",
       "varied"
     ],
-    "emoji": "🔁✨",
-    "id": "gl318"
+    "emoji": "🔄🎨",
+    "id": "gl261"
   },
   "vibrant": {
     "word": "vibrant",
-    "definition": "bright, strong, and full of life in colour",
+    "definition": "bright, strong, and full of life or energy.",
     "variations": [
       "vibrant",
-      "more vibrant",
-      "most vibrant"
+      "vibrancy"
     ],
     "emoji": "🌈✨",
-    "id": "gl319"
+    "id": "gl262"
   },
   "viewer": {
     "word": "viewer",
-    "definition": "A person who looks at an artwork.",
+    "definition": "the person who looks at an artwork",
     "variations": [
-      "viewers",
-      "view"
+      "viewer",
+      "viewers"
     ],
-    "emoji": "👀🧑",
-    "id": "gl320"
+    "emoji": "👀",
+    "id": "gl263"
   },
   "viewfinder": {
     "word": "viewfinder",
-    "definition": "A simple tool artists use to frame, crop, and choose what to include in a picture.",
+    "definition": "a tool artists use to choose and frame the part of a scene they want to draw",
     "variations": [
-      "viewfinders",
-      "view-finder",
-      "view-finders"
+      "viewfinder",
+      "viewfinders"
     ],
     "emoji": "🖼️👁️",
-    "id": "gl321"
-  },
-  "viewing angle": {
-    "word": "viewing angle",
-    "definition": "the position or direction from which someone looks at an object",
-    "variations": [
-      "viewing angle",
-      "viewing angles"
-    ],
-    "emoji": "📐👁️",
-    "id": "gl322"
+    "id": "gl264"
   },
   "vinyl": {
     "word": "vinyl",
-    "definition": "a strong plastic material often used for stencils or printing surfaces.",
+    "definition": "a strong plastic material often used for making stencils or printing surfaces",
     "variations": [
       "vinyl",
       "vinyls"
     ],
-    "emoji": "🧩📄",
-    "id": "gl323"
-  },
-  "visual element": {
-    "word": "visual element",
-    "definition": "a basic part of art that can be seen, such as line, shape, colour, or texture",
-    "variations": [
-      "visual element",
-      "visual elements"
-    ],
-    "emoji": "👀🎨",
-    "id": "gl324"
+    "emoji": "🧴✂️",
+    "id": "gl265"
   },
   "visual elements": {
     "word": "visual elements",
-    "definition": "the basic parts of art that we see, such as line, shape, colour, texture and space",
+    "definition": "the basic parts used to make art, such as line, colour, shape, texture, and space.",
     "variations": [
       "visual element",
       "visual elements"
     ],
-    "emoji": "👀🎨",
-    "id": "gl325"
+    "emoji": "👁️🎨",
+    "id": "gl266"
   },
   "visual identity": {
     "word": "visual identity",
-    "definition": "the look and design style that helps people recognize a brand or company.",
+    "definition": "the look and design features that help people recognize a brand or organization.",
     "variations": [
       "visual identity",
       "visual identities"
     ],
     "emoji": "👁️🏷️",
-    "id": "gl326"
+    "id": "gl267"
   },
-  "visual impact": {
-    "word": "visual impact",
-    "definition": "the strong effect an artwork has on a viewer when they look at it",
-    "variations": [
-      "visual impact"
-    ],
-    "emoji": "👀💥",
-    "id": "gl327"
-  },
-  "visual medium": {
-    "word": "visual medium",
-    "definition": "a material or method used to create art that can be seen",
-    "variations": [
-      "visual medium",
-      "visual media"
-    ],
-    "emoji": "👁️🖼️",
-    "id": "gl328"
+  "visual reasoning": {
+    "word": "visual reasoning",
+    "definition": "the ability to think and solve problems using pictures, shapes, and drawings",
+    "variations": [],
+    "emoji": "👁️🧠",
+    "id": "gl268"
   },
   "visualize": {
     "word": "visualize",
-    "definition": "to form a picture of something in the mind or show it clearly in a drawing",
+    "definition": "to form a clear picture of something in the mind or show it in a drawing",
     "variations": [
-      "visualize",
       "visualizes",
       "visualized",
       "visualizing",
-      "visual"
+      "visualisation",
+      "visualization"
     ],
-    "emoji": "👁️💭",
-    "id": "gl329"
+    "emoji": "👁️💡",
+    "id": "gl269"
   },
-  "visually engaging": {
-    "word": "visually engaging",
-    "definition": "interesting and attractive to look at",
+  "wash": {
+    "word": "wash",
+    "definition": "a thin layer of watery paint spread over a surface",
     "variations": [
-      "visually engaging"
+      "wash",
+      "washes"
     ],
-    "emoji": "👀✨",
-    "id": "gl330"
+    "emoji": "🎨💦",
+    "id": "gl270"
   },
   "washable": {
     "word": "washable",
-    "definition": "able to be cleaned with water without being damaged",
+    "definition": "able to be cleaned with water without being damaged.",
     "variations": [
       "washable"
     ],
-    "emoji": "🫧💧",
-    "id": "gl331"
+    "emoji": "💧🧼",
+    "id": "gl271"
   },
   "water-resistant": {
     "word": "water-resistant",
-    "definition": "not easily damaged or washed away by water.",
+    "definition": "not easily damaged or washed away by water",
     "variations": [
       "water-resistant"
     ],
     "emoji": "💧🛡️",
-    "id": "gl332"
+    "id": "gl272"
   },
   "watercolour": {
     "word": "watercolour",
-    "definition": "a type of paint mixed with water, or a painting made with this paint",
+    "definition": "a type of painting made with colors mixed with water",
     "variations": [
       "watercolour",
       "watercolours"
     ],
     "emoji": "🎨💧",
-    "id": "gl333"
+    "id": "gl273"
   },
   "wearability": {
     "word": "wearability",
-    "definition": "how suitable and comfortable something is to wear.",
+    "definition": "how suitable and comfortable something is to wear",
     "variations": [
       "wearability",
       "wearable"
     ],
     "emoji": "👕👌",
-    "id": "gl334"
+    "id": "gl274"
   },
   "workspace": {
     "word": "workspace",
-    "definition": "the place where a person does their work or art activity",
+    "definition": "the area where a person does their work or art activity.",
     "variations": [
       "workspace",
       "workspaces"
     ],
-    "emoji": "🪑🎨",
-    "id": "gl335"
+    "emoji": "📍🛠️",
+    "id": "gl275"
   },
   "worm’s eye view": {
     "word": "worm’s eye view",
     "definition": "a view from below, looking up at an object",
-    "variations": [
-      "worm’s eye view",
-      "worms eye view"
-    ],
+    "variations": [],
     "emoji": "🪱⬆️",
-    "id": "gl336"
+    "id": "gl276"
   },
-  "wrinkle": {
-    "word": "wrinkle",
-    "definition": "a fold or crease in fabric, paper, or mesh that can affect printing.",
+  "wrinkles": {
+    "word": "wrinkles",
+    "definition": "small folds or creases in paper, fabric, or mesh",
     "variations": [
       "wrinkle",
       "wrinkles",
       "wrinkled"
     ],
     "emoji": "📄〰️",
-    "id": "gl337"
+    "id": "gl277"
   }
 }

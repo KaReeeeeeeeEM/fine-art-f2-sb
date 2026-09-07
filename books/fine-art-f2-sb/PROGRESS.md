@@ -31,3 +31,13 @@
 - Aligned semantic duplicate suppression with the actually visible header crop,
   regenerated all 112 pages, and completed a browser scan from physical page 7
   through page 112 for the same failure pattern.
+
+## 2026-09-07
+
+- Corrected printed page `(iii)` and the continuing contents page to use the
+  source-width leader rows and one measured, right-aligned page-number column.
+- Kept top/bottom page furniture visible while excluding its labels and folios
+  from accessibility narration and packaged audio.
+- Converted TOC Roman folios to their numeric values in TTS input while
+  preserving Roman glyphs in the visible page; verified the generated audio.
+- Regenerated and checked the complete 112-page web package successfully.

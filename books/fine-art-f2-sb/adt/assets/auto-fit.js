@@ -35,6 +35,27 @@
     return (value || "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim()
   }
 
+  function romanValue(token) {
+    var roman = String(token || "").toUpperCase()
+    if (!/^(?=[MDCLXVI]+$)M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$/.test(roman)) return null
+    var values = { I: 1, V: 5, X: 10, L: 50, C: 100, D: 500, M: 1000 }
+    var total = 0
+    for (var i = 0; i < roman.length; i++) {
+      var current = values[roman[i]]
+      var next = values[roman[i + 1]] || 0
+      total += current < next ? -current : current
+    }
+    return total || null
+  }
+
+  function accessibleTocLabel(original) {
+    var spoken = original.replace(/\s*\.{3,}\s*/g, ", ")
+    return spoken.replace(/\b([ivxlcdm]+)(?=\s*$)/i, function (token) {
+      var value = romanValue(token)
+      return value === null ? token : "Roman numeral " + value
+    })
+  }
+
   function normalizeTocRows() {
     var rows = document.querySelectorAll("#content [data-adt-fit]")
     for (var i = 0; i < rows.length; i++) {
@@ -54,7 +75,7 @@
           appendTocCells(row, segmentMatches[si], sourceSpans[si].style.cssText)
           stack.appendChild(row)
         }
-        rows[i].setAttribute("aria-label", original)
+        rows[i].setAttribute("aria-label", accessibleTocLabel(original))
         rows[i].replaceChildren(stack)
         rows[i].style.display = "block"
         rows[i].dataset.adtTocRow = "1"
@@ -63,7 +84,7 @@
       if (!match) continue
       var sample = rows[i].querySelector("span")
       var inherited = sample ? sample.style.cssText : ""
-      rows[i].setAttribute("aria-label", original)
+      rows[i].setAttribute("aria-label", accessibleTocLabel(original))
       rows[i].replaceChildren()
       appendTocCells(rows[i], match, inherited)
       rows[i].style.display = "flex"

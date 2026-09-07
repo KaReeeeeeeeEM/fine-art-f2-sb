@@ -246,7 +246,7 @@ A flat `Record<textId, string>` containing every piece of text in the book. Exam
   "pg001_gp001_tx001": "",
   "pg001_im001": "Certificate of Approval from the United Republic of Tanzania, Ministry of Education, Science and Technology, approving Fine Art for Secondary Schools Student’s Book Form Two as a textbook for Form Two students in Tanzanian secondary schools under the 2023 syllabus, dated 31st May 2025 and signed by Dr Lyabwene M. Mtahabwa, Commissioner for Education.",
   "gl001": "abstract",
-  "gl001_def": "a style of art that does not try to show real objects exactly as they look"
+  "gl001_def": "a style of art that does not try to show things exactly as they look in real life."
 }
 ```
 
@@ -271,8 +271,8 @@ Keyed by word (lowercase). Each entry has the word, a simple definition, inflect
 {
   "abstract": {
     "word": "abstract",
-    "definition": "a style of art that does not try to show real objects exactly as they look",
-    "variations": ["abstract","abstraction"],
+    "definition": "a style of art that does not try to show things exactly as they look in real life.",
+    "variations": ["abstracts","abstract art"],
     "emoji": "🎨🌀"
   }
 }

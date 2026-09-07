@@ -1,6 +1,6 @@
 # Page fidelity audit
 
-Source: `/Users/kareem/Documents/SECONDARY-ADT/NOT-CONVERTED/FINE ART F2 SB/FINE ART F2 SB.pdf`
+Source: `FINE ART F2 SB.pdf`
 
 Reference viewport: 558 x 768 px. Physical page numbers, printed folios, ADT page IDs, and output filenames must be recorded separately after extraction.
 
@@ -54,3 +54,20 @@ Reference viewport: 558 x 768 px. Physical page numbers, printed folios, ADT pag
   correctly (the initial failures occurred while files were still being copied).
 - Small out-of-frame fragments are intentional source crop/registration marks,
   not clipped instructional content.
+
+## 2026-09-07 contents-page and narration correction
+
+- Printed page `(iii)` maps to physical PDF page 3 (`pg003_sec001.html`).
+- Restored every TOC leader row to the measured shared number edge: 472 px in
+  the 558 px reference viewport. Main rows use `left: 86px; width: 386px` and
+  indented rows use `left: 106px; width: 366px`.
+- Regression-checked the continuation TOC on physical page 4; its hierarchy,
+  leaders, and right-aligned number column remain consistent with the source.
+- Decorative running labels and printed folios remain visually present but are
+  marked presentational and omitted from the packaged read-aloud catalog.
+- TOC dot leaders remain visual only. Terminal Roman folios are normalized to
+  numeric values for speech; generated audio was transcribed as
+  “Acknowledgments, five” and “Preface, six.”
+- Removed the exposed PDF production timestamp text node from physical page 3.
+- Full 112-page pipeline completed; package check found zero missing local
+  `src`/`href` targets. Focused renderer/speech tests and repository typecheck pass.
